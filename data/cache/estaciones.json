@@ -1,34 +1,34 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-30T05:24:23.324896+00:00",
+  "generated_at": "2026-07-02T04:14:30.672423+00:00",
   "records": {
     "87007": {
-      "query_id": 87007,
+      "station_number": 87007,
+      "station_name": "LA QUIACA OBSERVATORIO",
       "representative_locality_id": 8367,
-      "expected_station_name": "LA QUIACA OBSERVATORIO",
       "locality_count": 286,
+      "source_station_numbers": [
+        87007
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:11:05.510464+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:18:15.810497+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-29T21:00:00-03:00",
-        "humidity": 39.0,
-        "pressure": 671.6,
-        "feels_like": null,
-        "temperature": 9.2,
-        "visibility": 30.0,
+        "date": "2026-07-01T21:00:00-03:00",
+        "humidity": 63.0,
+        "pressure": 673.8,
+        "feels_like": 7.0,
+        "temperature": 8.5,
+        "visibility": 4.0,
         "weather": {
-          "description": "Ligeramente nublado",
+          "description": "Ligeramente nublado con humo",
           "id": 13
         },
         "wind": {
-          "direction": "Noroeste",
-          "deg": 315.0,
-          "speed": 4.0
+          "direction": "Norte",
+          "deg": 360.0,
+          "speed": 10.0
         },
         "station_id": 87007,
         "location": {
@@ -46,32 +46,32 @@
       }
     },
     "87016": {
-      "query_id": 87016,
+      "station_number": 87016,
+      "station_name": "ORAN AERO",
       "representative_locality_id": 365,
-      "expected_station_name": "ORAN AERO",
       "locality_count": 92,
+      "source_station_numbers": [
+        87016
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:11:07.209011+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:18:17.509939+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-29T21:00:00-03:00",
-        "humidity": 86.0,
-        "pressure": 976.4,
+        "date": "2026-07-01T21:00:00-03:00",
+        "humidity": 87.0,
+        "pressure": 981.2,
         "feels_like": null,
-        "temperature": 15.6,
-        "visibility": 10.0,
+        "temperature": 14.6,
+        "visibility": 6.0,
         "weather": {
-          "description": "Cubierto",
+          "description": "Cubierto con precipitación a la vista",
           "id": 43
         },
         "wind": {
           "direction": "Sudeste",
           "deg": 135.0,
-          "speed": 4.0
+          "speed": 10.0
         },
         "station_id": 87016,
         "location": {
@@ -89,32 +89,32 @@
       }
     },
     "87022": {
-      "query_id": 87022,
+      "station_number": 87022,
+      "station_name": "TARTAGAL AERO",
       "representative_locality_id": 1243,
-      "expected_station_name": "TARTAGAL AERO",
       "locality_count": 87,
+      "source_station_numbers": [
+        87022
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:11:08.910016+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:18:19.211507+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-29T21:00:00-03:00",
-        "humidity": 87.0,
-        "pressure": 966.2,
+        "date": "2026-07-01T21:00:00-03:00",
+        "humidity": 80.0,
+        "pressure": 970.7,
         "feels_like": null,
-        "temperature": 15.2,
-        "visibility": 8.0,
+        "temperature": 14.2,
+        "visibility": 10.0,
         "weather": {
-          "description": "Nublado con humo",
+          "description": "Cubierto",
           "id": 43
         },
         "wind": {
-          "direction": "Noreste",
-          "deg": 45.0,
-          "speed": 4.0
+          "direction": "Sur",
+          "deg": 180.0,
+          "speed": 10.0
         },
         "station_id": 87022,
         "location": {
@@ -132,32 +132,32 @@
       }
     },
     "87043": {
-      "query_id": 87043,
+      "station_number": 87043,
+      "station_name": "JUJUY U N",
       "representative_locality_id": 10825,
-      "expected_station_name": "JUJUY U N",
       "locality_count": 1,
+      "source_station_numbers": [
+        87043
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:11:10.603634+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:18:20.902962+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-29T22:00:00-03:00",
-        "humidity": 95.0,
-        "pressure": 872.8,
+        "date": "2026-07-01T22:00:00-03:00",
+        "humidity": 83.0,
+        "pressure": 878.6,
         "feels_like": null,
-        "temperature": 10.0,
-        "visibility": 6.0,
+        "temperature": 8.8,
+        "visibility": 7.0,
         "weather": {
           "description": "Cubierto con neblina",
           "id": 61
         },
         "wind": {
-          "direction": "Calma",
-          "deg": null,
-          "speed": null
+          "direction": "Oeste",
+          "deg": 270.0,
+          "speed": 4.0
         },
         "station_id": 87043,
         "location": {
@@ -175,32 +175,32 @@
       }
     },
     "87046": {
-      "query_id": 87046,
+      "station_number": 87046,
+      "station_name": "JUJUY AERO",
       "representative_locality_id": 8564,
-      "expected_station_name": "JUJUY AERO",
       "locality_count": 212,
+      "source_station_numbers": [
+        87046
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:11:12.305188+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:18:22.597341+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-30T02:00:00-03:00",
-        "humidity": 98.0,
-        "pressure": 914.4,
+        "date": "2026-07-02T00:00:00-03:00",
+        "humidity": 76.0,
+        "pressure": 922.6,
         "feels_like": null,
-        "temperature": 10.0,
-        "visibility": 4.0,
+        "temperature": 10.6,
+        "visibility": 15.0,
         "weather": {
-          "description": "Cubierto con llovizna en la hora anterior",
+          "description": "Cubierto",
           "id": 43
         },
         "wind": {
-          "direction": "Sudeste",
-          "deg": 135.0,
-          "speed": 4.0
+          "direction": "Sudoeste",
+          "deg": 225.0,
+          "speed": 12.0
         },
         "station_id": 87046,
         "location": {
@@ -218,32 +218,32 @@
       }
     },
     "87047": {
-      "query_id": 87047,
+      "station_number": 87047,
+      "station_name": "SALTA AERO",
       "representative_locality_id": 10701,
-      "expected_station_name": "SALTA AERO",
       "locality_count": 300,
+      "source_station_numbers": [
+        87047
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:11:14.000389+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:18:24.291818+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-30T02:00:00-03:00",
-        "humidity": 94.0,
-        "pressure": 880.2,
-        "feels_like": 9.3,
-        "temperature": 9.7,
-        "visibility": 15.0,
+        "date": "2026-07-02T00:00:00-03:00",
+        "humidity": 97.0,
+        "pressure": 888.5,
+        "feels_like": null,
+        "temperature": 7.5,
+        "visibility": 4.0,
         "weather": {
-          "description": "Cubierto",
-          "id": 43
+          "description": "Cubierto con llovizna",
+          "id": 71
         },
         "wind": {
-          "direction": "Noreste",
-          "deg": 45.0,
-          "speed": 6.0
+          "direction": "Calma",
+          "deg": null,
+          "speed": null
         },
         "station_id": 87047,
         "location": {
@@ -261,27 +261,27 @@
       }
     },
     "87050": {
-      "query_id": 87050,
+      "station_number": 87050,
+      "station_name": "METAN",
       "representative_locality_id": 1046,
-      "expected_station_name": "METAN",
       "locality_count": 373,
+      "source_station_numbers": [
+        87050
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:11:15.706620+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:18:25.999652+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-29T21:00:00-03:00",
-        "humidity": 98.0,
-        "pressure": 922.1,
+        "date": "2026-07-01T21:00:00-03:00",
+        "humidity": 93.0,
+        "pressure": 927.0,
         "feels_like": null,
-        "temperature": 8.8,
-        "visibility": 1.5,
+        "temperature": 9.2,
+        "visibility": 5.0,
         "weather": {
-          "description": "Cubierto con llovizna",
-          "id": 71
+          "description": "Cubierto con neblina",
+          "id": 61
         },
         "wind": {
           "direction": "Sudeste",
@@ -304,21 +304,21 @@
       }
     },
     "87065": {
-      "query_id": 87065,
+      "station_number": 87065,
+      "station_name": "RIVADAVIA",
       "representative_locality_id": 794,
-      "expected_station_name": "RIVADAVIA",
       "locality_count": 432,
+      "source_station_numbers": [
+        87065
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:11:17.417649+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:18:27.708689+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-29T21:00:00-03:00",
-        "humidity": 51.0,
-        "pressure": 987.7,
+        "date": "2026-07-01T21:00:00-03:00",
+        "humidity": 71.0,
+        "pressure": 990.7,
         "feels_like": null,
         "temperature": 15.0,
         "visibility": 20.0,
@@ -327,9 +327,9 @@
           "id": 43
         },
         "wind": {
-          "direction": "Calma",
-          "deg": null,
-          "speed": null
+          "direction": "Sur",
+          "deg": 180.0,
+          "speed": 4.0
         },
         "station_id": 87065,
         "location": {
@@ -347,32 +347,32 @@
       }
     },
     "87078": {
-      "query_id": 87078,
+      "station_number": 87078,
+      "station_name": "LAS LOMITAS",
       "representative_locality_id": 8088,
-      "expected_station_name": "LAS LOMITAS",
       "locality_count": 259,
+      "source_station_numbers": [
+        87078
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:11:19.116281+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:18:29.404508+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-29T21:00:00-03:00",
-        "humidity": 66.0,
-        "pressure": 1003.3,
+        "date": "2026-07-01T21:00:00-03:00",
+        "humidity": 96.0,
+        "pressure": 1005.4,
         "feels_like": null,
-        "temperature": 15.6,
-        "visibility": 20.0,
+        "temperature": 12.8,
+        "visibility": 10.0,
         "weather": {
-          "description": "Mayormente nublado",
-          "id": 37
+          "description": "Cubierto con llovizna",
+          "id": 71
         },
         "wind": {
-          "direction": "Sudeste",
-          "deg": 135.0,
-          "speed": 10.0
+          "direction": "Sur",
+          "deg": 180.0,
+          "speed": 13.0
         },
         "station_id": 87078,
         "location": {
@@ -390,32 +390,32 @@
       }
     },
     "87097": {
-      "query_id": 87097,
+      "station_number": 87097,
+      "station_name": "IGUAZU AERO",
       "representative_locality_id": 9580,
-      "expected_station_name": "IGUAZU AERO",
       "locality_count": 55,
+      "source_station_numbers": [
+        87097
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:11:20.820068+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:18:31.101233+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-30T02:00:00-03:00",
-        "humidity": 100.0,
-        "pressure": 984.8,
+        "date": "2026-07-02T00:00:00-03:00",
+        "humidity": 99.0,
+        "pressure": 985.0,
         "feels_like": null,
-        "temperature": 15.2,
-        "visibility": 0.8,
+        "temperature": 21.3,
+        "visibility": 5.0,
         "weather": {
-          "description": "Cubierto con niebla en bancos",
-          "id": 67
+          "description": "Parcialmente nublado con neblina",
+          "id": 61
         },
         "wind": {
-          "direction": "Oeste",
-          "deg": 270.0,
-          "speed": 4.0
+          "direction": "Sudoeste",
+          "deg": 225.0,
+          "speed": 12.0
         },
         "station_id": 87097,
         "location": {
@@ -433,32 +433,32 @@
       }
     },
     "87121": {
-      "query_id": 87121,
+      "station_number": 87121,
+      "station_name": "TUCUMAN AERO",
       "representative_locality_id": 10237,
-      "expected_station_name": "TUCUMAN AERO",
       "locality_count": 617,
+      "source_station_numbers": [
+        87121
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:11:22.529360+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:18:32.805233+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-30T02:00:00-03:00",
-        "humidity": 97.0,
-        "pressure": 967.0,
-        "feels_like": null,
-        "temperature": 7.9,
-        "visibility": 2.0,
+        "date": "2026-07-02T00:00:00-03:00",
+        "humidity": 99.0,
+        "pressure": 977.3,
+        "feels_like": 8.4,
+        "temperature": 9.7,
+        "visibility": 4.0,
         "weather": {
           "description": "Cubierto con llovizna",
           "id": 71
         },
         "wind": {
-          "direction": "Oeste",
-          "deg": 270.0,
-          "speed": 4.0
+          "direction": "Sur",
+          "deg": 180.0,
+          "speed": 10.0
         },
         "station_id": 87121,
         "location": {
@@ -476,32 +476,32 @@
       }
     },
     "87127": {
-      "query_id": 87127,
+      "station_number": 87127,
+      "station_name": "TERMAS DE RIO HONDO AERO",
       "representative_locality_id": 2784,
-      "expected_station_name": "TERMAS DE RIO HONDO AERO",
       "locality_count": 177,
+      "source_station_numbers": [
+        87127
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:11:24.237006+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:18:34.508252+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-29T21:00:00-03:00",
-        "humidity": 91.0,
-        "pressure": 988.2,
+        "date": "2026-07-01T21:00:00-03:00",
+        "humidity": 81.0,
+        "pressure": 993.7,
         "feels_like": null,
-        "temperature": 8.5,
-        "visibility": 3.0,
+        "temperature": 11.5,
+        "visibility": 10.0,
         "weather": {
-          "description": "Cubierto con llovizna",
-          "id": 71
+          "description": "Nublado",
+          "id": 43
         },
         "wind": {
-          "direction": "Noreste",
-          "deg": 45.0,
-          "speed": 4.0
+          "direction": "Sur",
+          "deg": 180.0,
+          "speed": 17.0
         },
         "station_id": 87127,
         "location": {
@@ -519,32 +519,32 @@
       }
     },
     "87129": {
-      "query_id": 87129,
+      "station_number": 87129,
+      "station_name": "SANTIAGO DEL ESTERO AERO",
       "representative_locality_id": 2955,
-      "expected_station_name": "SANTIAGO DEL ESTERO AERO",
       "locality_count": 682,
+      "source_station_numbers": [
+        87129
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:11:25.940196+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:18:36.204187+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-30T02:00:00-03:00",
-        "humidity": 95.0,
-        "pressure": 996.4,
-        "feels_like": null,
-        "temperature": 8.4,
+        "date": "2026-07-02T00:00:00-03:00",
+        "humidity": 83.0,
+        "pressure": 1006.6,
+        "feels_like": 6.2,
+        "temperature": 9.8,
         "visibility": 10.0,
         "weather": {
-          "description": "Cubierto",
+          "description": "Nublado",
           "id": 43
         },
         "wind": {
-          "direction": "Calma",
-          "deg": null,
-          "speed": null
+          "direction": "Sur",
+          "deg": 180.0,
+          "speed": 32.0
         },
         "station_id": 87129,
         "location": {
@@ -562,32 +562,32 @@
       }
     },
     "87148": {
-      "query_id": 87148,
+      "station_number": 87148,
+      "station_name": "PRESIDENCIA ROQUE SAENZ PEÑA AERO",
       "representative_locality_id": 5709,
-      "expected_station_name": "PRESIDENCIA ROQUE SAENZ PEÑA AERO",
       "locality_count": 288,
+      "source_station_numbers": [
+        87148
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:11:27.644114+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:18:37.924909+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-30T02:00:00-03:00",
-        "humidity": 84.0,
-        "pressure": 1008.2,
+        "date": "2026-07-01T21:00:00-03:00",
+        "humidity": 82.0,
+        "pressure": 1011.3,
         "feels_like": null,
-        "temperature": 12.0,
+        "temperature": 12.8,
         "visibility": 20.0,
         "weather": {
-          "description": "Cubierto",
+          "description": "Nublado",
           "id": 43
         },
         "wind": {
-          "direction": "Calma",
-          "deg": null,
-          "speed": null
+          "direction": "Sur",
+          "deg": 180.0,
+          "speed": 13.0
         },
         "station_id": 87148,
         "location": {
@@ -605,32 +605,32 @@
       }
     },
     "87155": {
-      "query_id": 87155,
+      "station_number": 87155,
+      "station_name": "RESISTENCIA AERO",
       "representative_locality_id": 10562,
-      "expected_station_name": "RESISTENCIA AERO",
       "locality_count": 43,
+      "source_station_numbers": [
+        87155
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:11:29.344592+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:18:39.621106+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-30T02:00:00-03:00",
-        "humidity": 80.0,
-        "pressure": 1013.2,
+        "date": "2026-07-02T00:00:00-03:00",
+        "humidity": 82.0,
+        "pressure": 1017.4,
         "feels_like": null,
-        "temperature": 12.1,
+        "temperature": 12.8,
         "visibility": 15.0,
         "weather": {
-          "description": "Cubierto",
+          "description": "Nublado",
           "id": 43
         },
         "wind": {
-          "direction": "Sudeste",
-          "deg": 135.0,
-          "speed": 10.0
+          "direction": "Sur",
+          "deg": 180.0,
+          "speed": 15.0
         },
         "station_id": 87155,
         "location": {
@@ -648,32 +648,32 @@
       }
     },
     "87162": {
-      "query_id": 87162,
+      "station_number": 87162,
+      "station_name": "FORMOSA AERO",
       "representative_locality_id": 8297,
-      "expected_station_name": "FORMOSA AERO",
       "locality_count": 114,
+      "source_station_numbers": [
+        87162
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:11:31.047031+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:18:41.324405+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-30T02:00:00-03:00",
-        "humidity": 97.0,
-        "pressure": 1011.3,
+        "date": "2026-07-02T00:00:00-03:00",
+        "humidity": 95.0,
+        "pressure": 1014.2,
         "feels_like": null,
-        "temperature": 10.2,
-        "visibility": 20.0,
+        "temperature": 13.6,
+        "visibility": 6.0,
         "weather": {
-          "description": "Parcialmente nublado",
-          "id": 25
+          "description": "Cubierto con llovizna",
+          "id": 71
         },
         "wind": {
           "direction": "Sur",
           "deg": 180.0,
-          "speed": 6.0
+          "speed": 21.0
         },
         "station_id": 87162,
         "location": {
@@ -691,32 +691,32 @@
       }
     },
     "87163": {
-      "query_id": 87163,
+      "station_number": 87163,
+      "station_name": "BERNARDO DE IRIGOYEN AERO",
       "representative_locality_id": 9589,
-      "expected_station_name": "BERNARDO DE IRIGOYEN AERO",
       "locality_count": 22,
+      "source_station_numbers": [
+        87163
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:11:32.757089+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:18:43.037932+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-29T21:00:00-03:00",
-        "humidity": 100.0,
-        "pressure": 924.0,
+        "date": "2026-07-01T21:00:00-03:00",
+        "humidity": 93.0,
+        "pressure": 924.5,
         "feels_like": null,
-        "temperature": 12.9,
-        "visibility": 0.1,
+        "temperature": 20.8,
+        "visibility": 20.0,
         "weather": {
-          "description": "Cielo invisible con niebla",
-          "id": 67
+          "description": "Parcialmente nublado con relámpagos sin truenos",
+          "id": 25
         },
         "wind": {
-          "direction": "Sur",
-          "deg": 180.0,
-          "speed": 4.0
+          "direction": "Norte",
+          "deg": 360.0,
+          "speed": 10.0
         },
         "station_id": 87163,
         "location": {
@@ -734,32 +734,32 @@
       }
     },
     "87166": {
-      "query_id": 87166,
+      "station_number": 87166,
+      "station_name": "CORRIENTES AERO",
       "representative_locality_id": 7242,
-      "expected_station_name": "CORRIENTES AERO",
       "locality_count": 94,
+      "source_station_numbers": [
+        87166
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:11:34.466120+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:18:44.747052+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-30T02:00:00-03:00",
-        "humidity": 86.0,
-        "pressure": 1012.0,
+        "date": "2026-07-02T01:00:00-03:00",
+        "humidity": 84.0,
+        "pressure": 1015.8,
         "feels_like": null,
-        "temperature": 11.6,
+        "temperature": 12.5,
         "visibility": 10.0,
         "weather": {
-          "description": "Cubierto",
-          "id": 43
+          "description": "Mayormente nublado",
+          "id": 37
         },
         "wind": {
-          "direction": "Sur",
-          "deg": 180.0,
-          "speed": 10.0
+          "direction": "Sudoeste",
+          "deg": 225.0,
+          "speed": 23.0
         },
         "station_id": 87166,
         "location": {
@@ -777,32 +777,32 @@
       }
     },
     "87173": {
-      "query_id": 87173,
+      "station_number": 87173,
+      "station_name": "ITUZAINGO",
       "representative_locality_id": 7152,
-      "expected_station_name": "ITUZAINGO",
       "locality_count": 25,
+      "source_station_numbers": [
+        87173
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:11:36.169329+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:18:46.442730+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-29T21:00:00-03:00",
-        "humidity": 93.0,
-        "pressure": 1009.7,
+        "date": "2026-07-01T21:00:00-03:00",
+        "humidity": 98.0,
+        "pressure": 1010.0,
         "feels_like": null,
-        "temperature": 11.2,
+        "temperature": 14.2,
         "visibility": 15.0,
         "weather": {
-          "description": "Ligeramente nublado",
-          "id": 13
+          "description": "Cubierto con llovizna en la hora anterior",
+          "id": 43
         },
         "wind": {
           "direction": "Sudeste",
           "deg": 135.0,
-          "speed": 10.0
+          "speed": 19.0
         },
         "station_id": 87173,
         "location": {
@@ -820,31 +820,31 @@
       }
     },
     "87178": {
-      "query_id": 87178,
+      "station_number": 87178,
+      "station_name": "POSADAS AERO",
       "representative_locality_id": 9597,
-      "expected_station_name": "POSADAS AERO",
       "locality_count": 63,
+      "source_station_numbers": [
+        87178
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:11:37.850084+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:18:48.136063+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-30T02:00:00-03:00",
-        "humidity": 90.0,
-        "pressure": 1003.3,
+        "date": "2026-07-02T00:00:00-03:00",
+        "humidity": 98.0,
+        "pressure": 1004.4,
         "feels_like": null,
-        "temperature": 10.7,
-        "visibility": 20.0,
+        "temperature": 14.5,
+        "visibility": 10.0,
         "weather": {
-          "description": "Ligeramente nublado",
-          "id": 13
+          "description": "Cubierto con llovizna",
+          "id": 71
         },
         "wind": {
-          "direction": "Sudeste",
-          "deg": 135.0,
+          "direction": "Sur",
+          "deg": 180.0,
           "speed": 12.0
         },
         "station_id": 87178,
@@ -863,31 +863,31 @@
       }
     },
     "87187": {
-      "query_id": 87187,
+      "station_number": 87187,
+      "station_name": "OBERA",
       "representative_locality_id": 9751,
-      "expected_station_name": "OBERA",
       "locality_count": 94,
+      "source_station_numbers": [
+        87187
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:11:39.543029+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:18:49.828330+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-29T21:00:00-03:00",
-        "humidity": 91.0,
-        "pressure": 982.6,
+        "date": "2026-07-01T21:00:00-03:00",
+        "humidity": 92.0,
+        "pressure": 980.4,
         "feels_like": null,
-        "temperature": 11.8,
+        "temperature": 15.8,
         "visibility": 10.0,
         "weather": {
-          "description": "Despejado",
-          "id": 3
+          "description": "Cubierto con lluvia débil",
+          "id": 72
         },
         "wind": {
-          "direction": "Sudeste",
-          "deg": 135.0,
+          "direction": "Sur",
+          "deg": 180.0,
           "speed": 4.0
         },
         "station_id": 87187,
@@ -906,32 +906,32 @@
       }
     },
     "87211": {
-      "query_id": 87211,
+      "station_number": 87211,
+      "station_name": "TINOGASTA",
       "representative_locality_id": 5253,
-      "expected_station_name": "TINOGASTA",
       "locality_count": 160,
+      "source_station_numbers": [
+        87211
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:11:41.254173+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:18:51.539639+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-29T21:00:00-03:00",
-        "humidity": 61.0,
-        "pressure": 881.5,
-        "feels_like": 5.5,
-        "temperature": 8.0,
+        "date": "2026-07-01T21:00:00-03:00",
+        "humidity": 78.0,
+        "pressure": 888.6,
+        "feels_like": 5.7,
+        "temperature": 7.4,
         "visibility": 20.0,
         "weather": {
-          "description": "Algo nublado",
-          "id": 19
+          "description": "Cubierto",
+          "id": 43
         },
         "wind": {
           "direction": "Oeste",
           "deg": 270.0,
-          "speed": 15.0
+          "speed": 10.0
         },
         "station_id": 87211,
         "location": {
@@ -949,32 +949,32 @@
       }
     },
     "87213": {
-      "query_id": 87213,
+      "station_number": 87213,
+      "station_name": "CHILECITO AERO",
       "representative_locality_id": 8970,
-      "expected_station_name": "CHILECITO AERO",
       "locality_count": 138,
+      "source_station_numbers": [
+        87213
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:11:42.963385+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:18:53.248674+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-29T21:00:00-03:00",
-        "humidity": 81.0,
-        "pressure": 913.9,
-        "feels_like": 5.7,
-        "temperature": 6.6,
+        "date": "2026-07-01T21:00:00-03:00",
+        "humidity": 73.0,
+        "pressure": 921.8,
+        "feels_like": 3.8,
+        "temperature": 5.8,
         "visibility": 20.0,
         "weather": {
-          "description": "Ligeramente nublado",
-          "id": 13
+          "description": "Nublado",
+          "id": 43
         },
         "wind": {
           "direction": "Sur",
           "deg": 180.0,
-          "speed": 6.0
+          "speed": 10.0
         },
         "station_id": 87213,
         "location": {
@@ -992,32 +992,32 @@
       }
     },
     "87217": {
-      "query_id": 87217,
+      "station_number": 87217,
+      "station_name": "LA RIOJA AERO",
       "representative_locality_id": 8985,
-      "expected_station_name": "LA RIOJA AERO",
       "locality_count": 74,
+      "source_station_numbers": [
+        87217
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:11:44.676428+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:18:54.957004+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-30T01:00:00-03:00",
-        "humidity": 72.0,
-        "pressure": 968.2,
-        "feels_like": null,
-        "temperature": 9.3,
+        "date": "2026-07-02T00:00:00-03:00",
+        "humidity": 66.0,
+        "pressure": 982.1,
+        "feels_like": 3.9,
+        "temperature": 5.0,
         "visibility": 20.0,
         "weather": {
           "description": "Cubierto",
           "id": 43
         },
         "wind": {
-          "direction": "Sudoeste",
-          "deg": 225.0,
-          "speed": 4.0
+          "direction": "Sur",
+          "deg": 180.0,
+          "speed": 6.0
         },
         "station_id": 87217,
         "location": {
@@ -1035,32 +1035,32 @@
       }
     },
     "87222": {
-      "query_id": 87222,
+      "station_number": 87222,
+      "station_name": "CATAMARCA AERO",
       "representative_locality_id": 5157,
-      "expected_station_name": "CATAMARCA AERO",
       "locality_count": 250,
+      "source_station_numbers": [
+        87222
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:11:46.386608+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:18:56.665446+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-30T02:00:00-03:00",
-        "humidity": 78.0,
-        "pressure": 963.4,
-        "feels_like": 7.7,
-        "temperature": 9.8,
-        "visibility": 20.0,
+        "date": "2026-07-02T01:00:00-03:00",
+        "humidity": 98.0,
+        "pressure": 978.1,
+        "feels_like": 3.1,
+        "temperature": 5.2,
+        "visibility": 8.0,
         "weather": {
-          "description": "Cubierto",
+          "description": "Cubierto con llovizna en la hora anterior",
           "id": 43
         },
         "wind": {
-          "direction": "Noreste",
-          "deg": 45.0,
-          "speed": 15.0
+          "direction": "Sudeste",
+          "deg": 135.0,
+          "speed": 10.0
         },
         "station_id": 87222,
         "location": {
@@ -1078,32 +1078,32 @@
       }
     },
     "87244": {
-      "query_id": 87244,
+      "station_number": 87244,
+      "station_name": "VILLA DE MARIA DEL RIO SECO",
       "representative_locality_id": 10955,
-      "expected_station_name": "VILLA DE MARIA DEL RIO SECO",
       "locality_count": 280,
+      "source_station_numbers": [
+        87244
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:11:48.081203+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:21:30.506371+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-29T21:00:00-03:00",
-        "humidity": 80.0,
-        "pressure": 980.8,
-        "feels_like": null,
-        "temperature": 9.2,
+        "date": "2026-07-01T21:00:00-03:00",
+        "humidity": 82.0,
+        "pressure": 988.4,
+        "feels_like": 6.6,
+        "temperature": 8.2,
         "visibility": 10.0,
         "weather": {
           "description": "Cubierto",
           "id": 43
         },
         "wind": {
-          "direction": "Calma",
-          "deg": null,
-          "speed": null
+          "direction": "Sur",
+          "deg": 180.0,
+          "speed": 10.0
         },
         "station_id": 87244,
         "location": {
@@ -1121,32 +1121,32 @@
       }
     },
     "87257": {
-      "query_id": 87257,
+      "station_number": 87257,
+      "station_name": "CERES AERO",
       "representative_locality_id": 3759,
-      "expected_station_name": "CERES AERO",
       "locality_count": 169,
+      "source_station_numbers": [
+        87257
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:11:49.788331+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:21:32.372360+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-29T21:00:00-03:00",
-        "humidity": 79.0,
-        "pressure": 1010.6,
-        "feels_like": 8.7,
-        "temperature": 9.2,
+        "date": "2026-07-01T21:00:00-03:00",
+        "humidity": 68.0,
+        "pressure": 1016.0,
+        "feels_like": null,
+        "temperature": 10.7,
         "visibility": 15.0,
         "weather": {
-          "description": "Ligeramente nublado",
-          "id": 13
+          "description": "Parcialmente nublado",
+          "id": 25
         },
         "wind": {
           "direction": "Sur",
           "deg": 180.0,
-          "speed": 6.0
+          "speed": 17.0
         },
         "station_id": 87257,
         "location": {
@@ -1164,32 +1164,32 @@
       }
     },
     "87270": {
-      "query_id": 87270,
+      "station_number": 87270,
+      "station_name": "RECONQUISTA AERO",
       "representative_locality_id": 2013,
-      "expected_station_name": "RECONQUISTA AERO",
       "locality_count": 198,
+      "source_station_numbers": [
+        87270
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:11:51.488314+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:21:34.117357+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-30T02:00:00-03:00",
-        "humidity": 87.0,
-        "pressure": 1014.4,
-        "feels_like": null,
-        "temperature": 9.0,
+        "date": "2026-07-02T01:00:00-03:00",
+        "humidity": 85.0,
+        "pressure": 1020.5,
+        "feels_like": 7.3,
+        "temperature": 9.5,
         "visibility": 15.0,
         "weather": {
-          "description": "Parcialmente nublado",
-          "id": 25
+          "description": "Mayormente nublado",
+          "id": 37
         },
         "wind": {
           "direction": "Sur",
           "deg": 180.0,
-          "speed": 4.0
+          "speed": 15.0
         },
         "station_id": 87270,
         "location": {
@@ -1207,32 +1207,32 @@
       }
     },
     "87281": {
-      "query_id": 87281,
+      "station_number": 87281,
+      "station_name": "MERCEDES AERO (CTES)",
       "representative_locality_id": 7416,
-      "expected_station_name": "MERCEDES AERO (CTES)",
       "locality_count": 93,
+      "source_station_numbers": [
+        87281
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:11:53.197639+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:21:35.874380+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-29T21:00:00-03:00",
-        "humidity": 74.0,
-        "pressure": 1007.8,
-        "feels_like": 6.8,
-        "temperature": 8.6,
+        "date": "2026-07-01T21:00:00-03:00",
+        "humidity": 84.0,
+        "pressure": 1008.6,
+        "feels_like": null,
+        "temperature": 11.4,
         "visibility": 15.0,
         "weather": {
-          "description": "Algo nublado",
-          "id": 19
+          "description": "Mayormente nublado",
+          "id": 37
         },
         "wind": {
           "direction": "Este",
           "deg": 90.0,
-          "speed": 12.0
+          "speed": 15.0
         },
         "station_id": 87281,
         "location": {
@@ -1250,32 +1250,32 @@
       }
     },
     "87289": {
-      "query_id": 87289,
+      "station_number": 87289,
+      "station_name": "PASO DE LOS LIBRES AERO",
       "representative_locality_id": 7434,
-      "expected_station_name": "PASO DE LOS LIBRES AERO",
       "locality_count": 55,
+      "source_station_numbers": [
+        87289
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:11:54.908988+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:21:37.623968+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-29T21:00:00-03:00",
-        "humidity": 97.0,
+        "date": "2026-07-01T21:00:00-03:00",
+        "humidity": 89.0,
         "pressure": 1012.8,
-        "feels_like": 5.9,
-        "temperature": 7.6,
+        "feels_like": null,
+        "temperature": 12.3,
         "visibility": 10.0,
         "weather": {
-          "description": "Ligeramente nublado",
-          "id": 13
+          "description": "Cubierto",
+          "id": 43
         },
         "wind": {
           "direction": "Sur",
           "deg": 180.0,
-          "speed": 10.0
+          "speed": 25.0
         },
         "station_id": 87289,
         "location": {
@@ -1293,32 +1293,32 @@
       }
     },
     "87305": {
-      "query_id": 87305,
+      "station_number": 87305,
+      "station_name": "JACHAL",
       "representative_locality_id": 1297,
-      "expected_station_name": "JACHAL",
       "locality_count": 69,
+      "source_station_numbers": [
+        87305
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:11:56.609763+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:21:39.424304+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-29T21:00:00-03:00",
-        "humidity": 53.0,
-        "pressure": 885.7,
+        "date": "2026-07-01T21:00:00-03:00",
+        "humidity": 93.0,
+        "pressure": 896.4,
         "feels_like": null,
-        "temperature": 6.5,
-        "visibility": 10.0,
+        "temperature": 0.2,
+        "visibility": 4.0,
         "weather": {
-          "description": "Parcialmente nublado con humo",
-          "id": 25
+          "description": "Nublado con nevada débil",
+          "id": 78
         },
         "wind": {
-          "direction": "Sur",
-          "deg": 180.0,
-          "speed": 4.0
+          "direction": "Calma",
+          "deg": null,
+          "speed": null
         },
         "station_id": 87305,
         "location": {
@@ -1336,32 +1336,32 @@
       }
     },
     "87311": {
-      "query_id": 87311,
+      "station_number": 87311,
+      "station_name": "SAN JUAN AERO",
       "representative_locality_id": 1422,
-      "expected_station_name": "SAN JUAN AERO",
       "locality_count": 122,
+      "source_station_numbers": [
+        87311
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:11:58.303719+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:21:41.184800+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-30T02:00:00-03:00",
-        "humidity": 58.0,
-        "pressure": 948.4,
-        "feels_like": null,
-        "temperature": 6.5,
+        "date": "2026-07-02T01:00:00-03:00",
+        "humidity": 93.0,
+        "pressure": 965.4,
+        "feels_like": -2.6,
+        "temperature": 0.8,
         "visibility": 15.0,
         "weather": {
-          "description": "Mayormente nublado",
-          "id": 37
+          "description": "Cubierto",
+          "id": 43
         },
         "wind": {
-          "direction": "Calma",
-          "deg": null,
-          "speed": null
+          "direction": "Sudeste",
+          "deg": 135.0,
+          "speed": 12.0
         },
         "station_id": 87311,
         "location": {
@@ -1379,23 +1379,23 @@
       }
     },
     "87320": {
-      "query_id": 87320,
+      "station_number": 87320,
+      "station_name": "CHAMICAL AERO",
       "representative_locality_id": 9131,
-      "expected_station_name": "CHAMICAL AERO",
       "locality_count": 114,
+      "source_station_numbers": [
+        87320
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:12:00.000047+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:21:42.929817+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-29T21:00:00-03:00",
-        "humidity": 68.0,
-        "pressure": 966.4,
+        "date": "2026-07-01T21:00:00-03:00",
+        "humidity": 95.0,
+        "pressure": 975.7,
         "feels_like": null,
-        "temperature": 9.2,
+        "temperature": 5.6,
         "visibility": 20.0,
         "weather": {
           "description": "Cubierto",
@@ -1422,32 +1422,32 @@
       }
     },
     "87322": {
-      "query_id": 87322,
+      "station_number": 87322,
+      "station_name": "CHEPES",
       "representative_locality_id": 9227,
-      "expected_station_name": "CHEPES",
       "locality_count": 116,
+      "source_station_numbers": [
+        87322
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:12:01.696168+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:21:44.704692+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-29T21:00:00-03:00",
-        "humidity": 67.0,
-        "pressure": 944.9,
-        "feels_like": null,
-        "temperature": 8.2,
-        "visibility": 15.0,
+        "date": "2026-07-01T21:00:00-03:00",
+        "humidity": 82.0,
+        "pressure": 955.6,
+        "feels_like": -1.7,
+        "temperature": 1.2,
+        "visibility": 5.0,
         "weather": {
-          "description": "Cubierto",
-          "id": 43
+          "description": "Cubierto con lluvia y nevada",
+          "id": 77
         },
         "wind": {
-          "direction": "Calma",
-          "deg": null,
-          "speed": null
+          "direction": "Sudoeste",
+          "deg": 225.0,
+          "speed": 10.0
         },
         "station_id": 87322,
         "location": {
@@ -1465,32 +1465,32 @@
       }
     },
     "87328": {
-      "query_id": 87328,
+      "station_number": 87328,
+      "station_name": "VILLA DOLORES AERO",
       "representative_locality_id": 6631,
-      "expected_station_name": "VILLA DOLORES AERO",
       "locality_count": 203,
+      "source_station_numbers": [
+        87328
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:12:03.389944+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:21:46.448511+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-29T21:00:00-03:00",
-        "humidity": 71.0,
-        "pressure": 954.4,
-        "feels_like": null,
-        "temperature": 8.3,
+        "date": "2026-07-01T21:00:00-03:00",
+        "humidity": 79.0,
+        "pressure": 963.6,
+        "feels_like": 2.6,
+        "temperature": 4.8,
         "visibility": 30.0,
         "weather": {
           "description": "Cubierto",
           "id": 43
         },
         "wind": {
-          "direction": "Calma",
-          "deg": null,
-          "speed": null
+          "direction": "Sudoeste",
+          "deg": 225.0,
+          "speed": 10.0
         },
         "station_id": 87328,
         "location": {
@@ -1508,32 +1508,32 @@
       }
     },
     "87344": {
-      "query_id": 87344,
+      "station_number": 87344,
+      "station_name": "CORDOBA AERO",
       "representative_locality_id": 6420,
-      "expected_station_name": "CORDOBA AERO",
       "locality_count": 201,
+      "source_station_numbers": [
+        87344
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:12:05.107937+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:21:48.343787+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-30T02:00:00-03:00",
-        "humidity": 74.0,
-        "pressure": 961.7,
-        "feels_like": 4.5,
-        "temperature": 7.0,
-        "visibility": 15.0,
+        "date": "2026-07-02T01:00:00-03:00",
+        "humidity": 88.0,
+        "pressure": 974.5,
+        "feels_like": -0.2,
+        "temperature": 4.5,
+        "visibility": 10.0,
         "weather": {
-          "description": "Mayormente nublado",
-          "id": 37
+          "description": "Mayormente nublado con llovizna",
+          "id": 71
         },
         "wind": {
-          "direction": "Noroeste",
-          "deg": 315.0,
-          "speed": 13.0
+          "direction": "Sur",
+          "deg": 180.0,
+          "speed": 26.0
         },
         "station_id": 87344,
         "location": {
@@ -1551,32 +1551,32 @@
       }
     },
     "87345": {
-      "query_id": 87345,
+      "station_number": 87345,
+      "station_name": "CORDOBA OBSERVATORIO",
       "representative_locality_id": 10823,
-      "expected_station_name": "CORDOBA OBSERVATORIO",
       "locality_count": 78,
+      "source_station_numbers": [
+        87345
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:12:06.799076+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:21:50.102469+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-29T21:00:00-03:00",
-        "humidity": 66.0,
-        "pressure": 971.4,
-        "feels_like": null,
-        "temperature": 8.8,
-        "visibility": 10.0,
+        "date": "2026-07-01T21:00:00-03:00",
+        "humidity": 88.0,
+        "pressure": 980.0,
+        "feels_like": 3.3,
+        "temperature": 6.2,
+        "visibility": 8.0,
         "weather": {
-          "description": "Despejado",
-          "id": 3
+          "description": "Cubierto con llovizna en la hora anterior",
+          "id": 43
         },
         "wind": {
-          "direction": "Noreste",
-          "deg": 45.0,
-          "speed": 4.0
+          "direction": "Sur",
+          "deg": 180.0,
+          "speed": 15.0
         },
         "station_id": 87345,
         "location": {
@@ -1594,32 +1594,32 @@
       }
     },
     "87347": {
-      "query_id": 87347,
+      "station_number": 87347,
+      "station_name": "ESCUELA DE AVIACION MILITAR AERO",
       "representative_locality_id": 10824,
-      "expected_station_name": "ESCUELA DE AVIACION MILITAR AERO",
       "locality_count": 1,
+      "source_station_numbers": [
+        87347
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:12:08.493919+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:21:51.858884+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-30T00:00:00-03:00",
-        "humidity": 81.0,
-        "pressure": 962.8,
-        "feels_like": 0.0,
-        "temperature": 1.6,
-        "visibility": 10.0,
+        "date": "2026-07-01T21:00:00-03:00",
+        "humidity": 97.0,
+        "pressure": 971.8,
+        "feels_like": 0.4,
+        "temperature": 5.0,
+        "visibility": 4.0,
         "weather": {
-          "description": "Algo nublado",
-          "id": 19
+          "description": "Cubierto con llovizna en la hora anterior",
+          "id": 43
         },
         "wind": {
-          "direction": "Oeste",
-          "deg": 270.0,
-          "speed": 6.0
+          "direction": "Sur",
+          "deg": 180.0,
+          "speed": 26.0
         },
         "station_id": 87347,
         "location": {
@@ -1637,32 +1637,32 @@
       }
     },
     "87349": {
-      "query_id": 87349,
+      "station_number": 87349,
+      "station_name": "PILAR OBSERVATORIO",
       "representative_locality_id": 6480,
-      "expected_station_name": "PILAR OBSERVATORIO",
       "locality_count": 145,
+      "source_station_numbers": [
+        87349
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:12:10.194855+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:21:53.614927+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-29T21:00:00-03:00",
-        "humidity": 60.0,
-        "pressure": 981.2,
-        "feels_like": null,
-        "temperature": 7.1,
+        "date": "2026-07-01T21:00:00-03:00",
+        "humidity": 89.0,
+        "pressure": 990.2,
+        "feels_like": 2.7,
+        "temperature": 6.5,
         "visibility": 10.0,
         "weather": {
-          "description": "Despejado",
-          "id": 3
+          "description": "Cubierto",
+          "id": 43
         },
         "wind": {
-          "direction": "Calma",
-          "deg": null,
-          "speed": null
+          "direction": "Sur",
+          "deg": 180.0,
+          "speed": 23.0
         },
         "station_id": 87349,
         "location": {
@@ -1680,32 +1680,32 @@
       }
     },
     "87356": {
-      "query_id": 87356,
+      "station_number": 87356,
+      "station_name": "SUNCHALES AERO",
       "representative_locality_id": 2060,
-      "expected_station_name": "SUNCHALES AERO",
       "locality_count": 50,
+      "source_station_numbers": [
+        87356
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:12:11.892946+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:21:55.359812+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-30T02:00:00-03:00",
-        "humidity": 89.0,
-        "pressure": 1009.6,
-        "feels_like": null,
-        "temperature": 3.6,
+        "date": "2026-07-02T01:00:00-03:00",
+        "humidity": 84.0,
+        "pressure": 1018.6,
+        "feels_like": 6.7,
+        "temperature": 9.0,
         "visibility": 15.0,
         "weather": {
-          "description": "Despejado",
-          "id": 3
+          "description": "Cubierto",
+          "id": 43
         },
         "wind": {
-          "direction": "Sudeste",
-          "deg": 135.0,
-          "speed": 4.0
+          "direction": "Sur",
+          "deg": 180.0,
+          "speed": 15.0
         },
         "station_id": 87356,
         "location": {
@@ -1723,32 +1723,33 @@
       }
     },
     "87360": {
-      "query_id": 87360,
+      "station_number": 87360,
+      "station_name": "RAFAELA AERO",
       "representative_locality_id": 2153,
-      "expected_station_name": "RAFAELA AERO",
-      "locality_count": 107,
+      "locality_count": 108,
+      "source_station_numbers": [
+        87360,
+        87470
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:12:13.603645+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:21:57.105952+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-29T21:00:00-03:00",
-        "humidity": 81.0,
-        "pressure": 1009.4,
-        "feels_like": null,
-        "temperature": 6.4,
+        "date": "2026-07-01T21:00:00-03:00",
+        "humidity": 78.0,
+        "pressure": 1014.8,
+        "feels_like": 6.8,
+        "temperature": 9.7,
         "visibility": 10.0,
         "weather": {
-          "description": "Despejado",
-          "id": 3
+          "description": "Cubierto",
+          "id": 43
         },
         "wind": {
-          "direction": "Calma",
-          "deg": null,
-          "speed": null
+          "direction": "Sur",
+          "deg": 180.0,
+          "speed": 23.0
         },
         "station_id": 87360,
         "location": {
@@ -1766,32 +1767,32 @@
       }
     },
     "87371": {
-      "query_id": 87371,
+      "station_number": 87371,
+      "station_name": "SAUCE VIEJO AERO",
       "representative_locality_id": 2221,
-      "expected_station_name": "SAUCE VIEJO AERO",
       "locality_count": 63,
+      "source_station_numbers": [
+        87371
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:12:15.301391+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:21:58.856056+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-30T02:00:00-03:00",
-        "humidity": 97.0,
-        "pressure": 1019.2,
-        "feels_like": 1.8,
-        "temperature": 3.2,
-        "visibility": 8.0,
+        "date": "2026-07-02T01:00:00-03:00",
+        "humidity": 86.0,
+        "pressure": 1028.0,
+        "feels_like": 7.2,
+        "temperature": 9.7,
+        "visibility": 12.0,
         "weather": {
-          "description": "Despejado con neblina",
-          "id": 61
+          "description": "Cubierto",
+          "id": 43
         },
         "wind": {
-          "direction": "Sudoeste",
-          "deg": 225.0,
-          "speed": 6.0
+          "direction": "Sur",
+          "deg": 180.0,
+          "speed": 19.0
         },
         "station_id": 87371,
         "location": {
@@ -1809,32 +1810,32 @@
       }
     },
     "87374": {
-      "query_id": 87374,
+      "station_number": 87374,
+      "station_name": "PARANA AERO",
       "representative_locality_id": 7657,
-      "expected_station_name": "PARANA AERO",
       "locality_count": 147,
+      "source_station_numbers": [
+        87374
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:12:17.012776+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:22:00.602014+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-30T02:00:00-03:00",
-        "humidity": 91.0,
-        "pressure": 1012.0,
-        "feels_like": 4.9,
-        "temperature": 5.9,
+        "date": "2026-07-01T23:00:00-03:00",
+        "humidity": 82.0,
+        "pressure": 1019.2,
+        "feels_like": 7.5,
+        "temperature": 9.6,
         "visibility": 15.0,
         "weather": {
-          "description": "Despejado",
-          "id": 3
+          "description": "Cubierto",
+          "id": 43
         },
         "wind": {
           "direction": "Sur",
           "deg": 180.0,
-          "speed": 6.0
+          "speed": 15.0
         },
         "station_id": 87374,
         "location": {
@@ -1852,32 +1853,32 @@
       }
     },
     "87393": {
-      "query_id": 87393,
+      "station_number": 87393,
+      "station_name": "MONTE CASEROS AERO",
       "representative_locality_id": 7499,
-      "expected_station_name": "MONTE CASEROS AERO",
       "locality_count": 21,
+      "source_station_numbers": [
+        87393
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:12:18.713977+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:22:02.431246+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-30T02:00:00-03:00",
-        "humidity": 94.0,
-        "pressure": 1014.0,
-        "feels_like": 3.3,
-        "temperature": 5.0,
+        "date": "2026-07-02T01:00:00-03:00",
+        "humidity": 84.0,
+        "pressure": 1018.2,
+        "feels_like": 5.6,
+        "temperature": 9.0,
         "visibility": 20.0,
         "weather": {
-          "description": "Despejado",
-          "id": 3
+          "description": "Algo nublado",
+          "id": 19
         },
         "wind": {
-          "direction": "Sudeste",
-          "deg": 135.0,
-          "speed": 8.0
+          "direction": "Sur",
+          "deg": 180.0,
+          "speed": 26.0
         },
         "station_id": 87393,
         "location": {
@@ -1895,32 +1896,32 @@
       }
     },
     "87395": {
-      "query_id": 87395,
+      "station_number": 87395,
+      "station_name": "CONCORDIA AERO",
       "representative_locality_id": 7707,
-      "expected_station_name": "CONCORDIA AERO",
       "locality_count": 106,
+      "source_station_numbers": [
+        87395
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:12:20.422837+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:22:04.191347+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-29T21:00:00-03:00",
-        "humidity": 96.0,
-        "pressure": 1017.0,
-        "feels_like": null,
-        "temperature": 6.8,
-        "visibility": 10.0,
+        "date": "2026-07-01T21:00:00-03:00",
+        "humidity": 80.0,
+        "pressure": 1019.0,
+        "feels_like": 8.8,
+        "temperature": 10.0,
+        "visibility": 15.0,
         "weather": {
-          "description": "Despejado con banco delgado de niebla",
-          "id": 67
+          "description": "Despejado",
+          "id": 3
         },
         "wind": {
-          "direction": "Calma",
-          "deg": null,
-          "speed": null
+          "direction": "Sudoeste",
+          "deg": 225.0,
+          "speed": 10.0
         },
         "station_id": 87395,
         "location": {
@@ -1938,27 +1939,27 @@
       }
     },
     "87405": {
-      "query_id": 87405,
+      "station_number": 87405,
+      "station_name": "USPALLATA",
       "representative_locality_id": 9351,
-      "expected_station_name": "USPALLATA",
       "locality_count": 33,
+      "source_station_numbers": [
+        87405
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:12:22.120012+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:22:05.971017+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-29T21:00:00-03:00",
-        "humidity": 54.0,
-        "pressure": 811.3,
+        "date": "2026-07-01T21:00:00-03:00",
+        "humidity": 74.0,
+        "pressure": 816.2,
         "feels_like": null,
-        "temperature": 1.8,
+        "temperature": -1.4,
         "visibility": 15.0,
         "weather": {
-          "description": "Despejado",
-          "id": 3
+          "description": "Cubierto",
+          "id": 43
         },
         "wind": {
           "direction": "Calma",
@@ -1981,32 +1982,32 @@
       }
     },
     "87416": {
-      "query_id": 87416,
+      "station_number": 87416,
+      "station_name": "SAN MARTIN (MZA)",
       "representative_locality_id": 9446,
-      "expected_station_name": "SAN MARTIN (MZA)",
       "locality_count": 111,
+      "source_station_numbers": [
+        87416
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:12:23.829198+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:22:09.511883+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-29T21:00:00-03:00",
-        "humidity": 50.0,
-        "pressure": 943.0,
-        "feels_like": null,
-        "temperature": 9.3,
-        "visibility": 15.0,
+        "date": "2026-07-01T21:00:00-03:00",
+        "humidity": 88.0,
+        "pressure": 956.6,
+        "feels_like": -1.2,
+        "temperature": 1.1,
+        "visibility": 6.0,
         "weather": {
-          "description": "Parcialmente nublado",
-          "id": 25
+          "description": "Cubierto con nevada",
+          "id": 79
         },
         "wind": {
-          "direction": "Noroeste",
-          "deg": 315.0,
-          "speed": 4.0
+          "direction": "Sur",
+          "deg": 180.0,
+          "speed": 8.0
         },
         "station_id": 87416,
         "location": {
@@ -2024,32 +2025,32 @@
       }
     },
     "87418": {
-      "query_id": 87418,
+      "station_number": 87418,
+      "station_name": "MENDOZA AERO",
       "representative_locality_id": 9380,
-      "expected_station_name": "MENDOZA AERO",
       "locality_count": 17,
+      "source_station_numbers": [
+        87418
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:12:25.525814+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:22:11.261379+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-30T02:00:00-03:00",
-        "humidity": 70.0,
-        "pressure": 935.8,
-        "feels_like": 0.4,
-        "temperature": 2.5,
-        "visibility": 15.0,
+        "date": "2026-07-02T01:00:00-03:00",
+        "humidity": 91.0,
+        "pressure": 952.2,
+        "feels_like": null,
+        "temperature": 0.3,
+        "visibility": 5.0,
         "weather": {
-          "description": "Ligeramente nublado",
-          "id": 13
+          "description": "Cubierto con nevada débil",
+          "id": 78
         },
         "wind": {
-          "direction": "Sudoeste",
-          "deg": 225.0,
-          "speed": 8.0
+          "direction": "Calma",
+          "deg": null,
+          "speed": null
         },
         "station_id": 87418,
         "location": {
@@ -2067,32 +2068,33 @@
       }
     },
     "87420": {
-      "query_id": 87420,
+      "station_number": 87420,
+      "station_name": "MENDOZA OBSERVATORIO",
       "representative_locality_id": 10822,
-      "expected_station_name": "MENDOZA OBSERVATORIO",
-      "locality_count": 51,
+      "locality_count": 52,
+      "source_station_numbers": [
+        87412,
+        87420
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:12:27.224714+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:22:13.021899+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-29T21:00:00-03:00",
-        "humidity": 68.0,
-        "pressure": 923.7,
-        "feels_like": 1.7,
-        "temperature": 3.6,
-        "visibility": 15.0,
+        "date": "2026-07-01T21:00:00-03:00",
+        "humidity": 92.0,
+        "pressure": 936.4,
+        "feels_like": null,
+        "temperature": 1.8,
+        "visibility": 5.0,
         "weather": {
-          "description": "Ligeramente nublado",
-          "id": 13
+          "description": "Cubierto con nevada",
+          "id": 79
         },
         "wind": {
-          "direction": "Oeste",
-          "deg": 270.0,
-          "speed": 8.0
+          "direction": "Calma",
+          "deg": null,
+          "speed": null
         },
         "station_id": 87420,
         "location": {
@@ -2110,32 +2112,32 @@
       }
     },
     "87436": {
-      "query_id": 87436,
+      "station_number": 87436,
+      "station_name": "SAN LUIS AERO",
       "representative_locality_id": 1712,
-      "expected_station_name": "SAN LUIS AERO",
       "locality_count": 127,
+      "source_station_numbers": [
+        87436
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:12:28.917472+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:22:14.770814+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-30T02:00:00-03:00",
-        "humidity": 66.0,
-        "pressure": 935.3,
-        "feels_like": 3.1,
-        "temperature": 4.8,
-        "visibility": 20.0,
+        "date": "2026-07-02T01:00:00-03:00",
+        "humidity": 84.0,
+        "pressure": 948.9,
+        "feels_like": -2.4,
+        "temperature": 2.6,
+        "visibility": 5.0,
         "weather": {
-          "description": "Ligeramente nublado",
-          "id": 13
+          "description": "Cubierto con llovizna en la hora anterior",
+          "id": 43
         },
         "wind": {
-          "direction": "Noreste",
-          "deg": 45.0,
-          "speed": 8.0
+          "direction": "Este",
+          "deg": 90.0,
+          "speed": 25.0
         },
         "station_id": 87436,
         "location": {
@@ -2153,32 +2155,32 @@
       }
     },
     "87444": {
-      "query_id": 87444,
+      "station_number": 87444,
+      "station_name": "SANTA ROSA DE CONLARA AERO",
       "representative_locality_id": 1656,
-      "expected_station_name": "SANTA ROSA DE CONLARA AERO",
       "locality_count": 124,
+      "source_station_numbers": [
+        87444
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:12:30.611080+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:22:16.507923+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-29T21:00:00-03:00",
-        "humidity": 78.0,
-        "pressure": 948.1,
-        "feels_like": null,
-        "temperature": 4.4,
+        "date": "2026-07-01T21:00:00-03:00",
+        "humidity": 87.0,
+        "pressure": 956.4,
+        "feels_like": -0.7,
+        "temperature": 4.0,
         "visibility": 20.0,
         "weather": {
-          "description": "Despejado",
-          "id": 3
+          "description": "Cubierto",
+          "id": 43
         },
         "wind": {
-          "direction": "Calma",
-          "deg": null,
-          "speed": null
+          "direction": "Sudeste",
+          "deg": 135.0,
+          "speed": 25.0
         },
         "station_id": 87444,
         "location": {
@@ -2196,32 +2198,32 @@
       }
     },
     "87448": {
-      "query_id": 87448,
+      "station_number": 87448,
+      "station_name": "VILLA REYNOLDS AERO",
       "representative_locality_id": 1755,
-      "expected_station_name": "VILLA REYNOLDS AERO",
       "locality_count": 32,
+      "source_station_numbers": [
+        87448
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:12:32.322616+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:22:18.254496+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-30T02:00:00-03:00",
-        "humidity": 83.0,
-        "pressure": 961.8,
-        "feels_like": null,
-        "temperature": 0.2,
+        "date": "2026-07-02T01:00:00-03:00",
+        "humidity": 96.0,
+        "pressure": 977.4,
+        "feels_like": 0.0,
+        "temperature": 2.6,
         "visibility": 10.0,
         "weather": {
-          "description": "Despejado",
-          "id": 3
+          "description": "Nublado",
+          "id": 43
         },
         "wind": {
-          "direction": "Noroeste",
-          "deg": 315.0,
-          "speed": 4.0
+          "direction": "Oeste",
+          "deg": 270.0,
+          "speed": 10.0
         },
         "station_id": 87448,
         "location": {
@@ -2239,32 +2241,32 @@
       }
     },
     "87453": {
-      "query_id": 87453,
+      "station_number": 87453,
+      "station_name": "RIO CUARTO AERO",
       "representative_locality_id": 7021,
-      "expected_station_name": "RIO CUARTO AERO",
       "locality_count": 99,
+      "source_station_numbers": [
+        87453
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:12:34.022741+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:22:20.000377+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-29T21:00:00-03:00",
-        "humidity": 53.0,
-        "pressure": 970.6,
-        "feels_like": null,
-        "temperature": 11.0,
-        "visibility": 15.0,
+        "date": "2026-07-01T21:00:00-03:00",
+        "humidity": 99.0,
+        "pressure": 981.2,
+        "feels_like": -0.6,
+        "temperature": 3.9,
+        "visibility": 1.0,
         "weather": {
-          "description": "Despejado",
-          "id": 3
+          "description": "Cubierto con llovizna",
+          "id": 71
         },
         "wind": {
-          "direction": "Norte",
-          "deg": 360.0,
-          "speed": 6.0
+          "direction": "Sudoeste",
+          "deg": 225.0,
+          "speed": 23.0
         },
         "station_id": 87453,
         "location": {
@@ -2282,32 +2284,32 @@
       }
     },
     "87467": {
-      "query_id": 87467,
+      "station_number": 87467,
+      "station_name": "MARCOS JUAREZ AERO",
       "representative_locality_id": 6825,
-      "expected_station_name": "MARCOS JUAREZ AERO",
       "locality_count": 111,
+      "source_station_numbers": [
+        87467
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:12:35.729342+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:22:21.769412+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-29T21:00:00-03:00",
-        "humidity": 69.0,
-        "pressure": 1007.8,
-        "feels_like": 3.8,
-        "temperature": 4.9,
+        "date": "2026-07-01T21:00:00-03:00",
+        "humidity": 79.0,
+        "pressure": 1015.6,
+        "feels_like": 5.7,
+        "temperature": 9.0,
         "visibility": 20.0,
         "weather": {
-          "description": "Despejado",
-          "id": 3
+          "description": "Cubierto",
+          "id": 43
         },
         "wind": {
-          "direction": "Sudeste",
-          "deg": 135.0,
-          "speed": 6.0
+          "direction": "Sur",
+          "deg": 180.0,
+          "speed": 25.0
         },
         "station_id": 87467,
         "location": {
@@ -2325,32 +2327,32 @@
       }
     },
     "87468": {
-      "query_id": 87468,
+      "station_number": 87468,
+      "station_name": "VENADO TUERTO AERO",
       "representative_locality_id": 2343,
-      "expected_station_name": "VENADO TUERTO AERO",
       "locality_count": 62,
+      "source_station_numbers": [
+        87468
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:12:37.443028+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:22:23.516665+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-29T21:00:00-03:00",
-        "humidity": 70.0,
-        "pressure": 1007.4,
-        "feels_like": null,
-        "temperature": 6.6,
+        "date": "2026-07-01T21:00:00-03:00",
+        "humidity": 75.0,
+        "pressure": 1016.0,
+        "feels_like": 4.8,
+        "temperature": 8.1,
         "visibility": 10.0,
         "weather": {
-          "description": "Despejado",
-          "id": 3
+          "description": "Parcialmente nublado",
+          "id": 25
         },
         "wind": {
           "direction": "Sur",
           "deg": 180.0,
-          "speed": 4.0
+          "speed": 23.0
         },
         "station_id": 87468,
         "location": {
@@ -2368,32 +2370,32 @@
       }
     },
     "87480": {
-      "query_id": 87480,
+      "station_number": 87480,
+      "station_name": "ROSARIO AERO",
       "representative_locality_id": 2260,
-      "expected_station_name": "ROSARIO AERO",
       "locality_count": 133,
+      "source_station_numbers": [
+        87480
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:12:39.155223+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:22:26.997077+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-30T02:00:00-03:00",
-        "humidity": 97.0,
-        "pressure": 1018.0,
-        "feels_like": null,
-        "temperature": 1.6,
-        "visibility": 10.0,
+        "date": "2026-07-02T01:00:00-03:00",
+        "humidity": 72.0,
+        "pressure": 1028.0,
+        "feels_like": 5.6,
+        "temperature": 8.1,
+        "visibility": 15.0,
         "weather": {
-          "description": "Despejado con neblina",
-          "id": 61
+          "description": "Cubierto",
+          "id": 43
         },
         "wind": {
-          "direction": "Calma",
-          "deg": null,
-          "speed": null
+          "direction": "Sur",
+          "deg": 180.0,
+          "speed": 15.0
         },
         "station_id": 87480,
         "location": {
@@ -2411,32 +2413,32 @@
       }
     },
     "87497": {
-      "query_id": 87497,
+      "station_number": 87497,
+      "station_name": "GUALEGUAYCHU AERO",
       "representative_locality_id": 7720,
-      "expected_station_name": "GUALEGUAYCHU AERO",
       "locality_count": 125,
+      "source_station_numbers": [
+        87497
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:12:40.854674+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:22:28.748475+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-29T21:00:00-03:00",
-        "humidity": 66.0,
-        "pressure": 1018.4,
-        "feels_like": 7.0,
-        "temperature": 8.2,
+        "date": "2026-07-01T21:00:00-03:00",
+        "humidity": 83.0,
+        "pressure": 1023.4,
+        "feels_like": 8.1,
+        "temperature": 9.4,
         "visibility": 15.0,
         "weather": {
-          "description": "Despejado",
-          "id": 3
+          "description": "Ligeramente nublado",
+          "id": 13
         },
         "wind": {
-          "direction": "Sudoeste",
-          "deg": 225.0,
-          "speed": 8.0
+          "direction": "Sur",
+          "deg": 180.0,
+          "speed": 10.0
         },
         "station_id": 87497,
         "location": {
@@ -2454,32 +2456,32 @@
       }
     },
     "87506": {
-      "query_id": 87506,
+      "station_number": 87506,
+      "station_name": "MALARGUE AERO",
       "representative_locality_id": 9295,
-      "expected_station_name": "MALARGUE AERO",
       "locality_count": 131,
+      "source_station_numbers": [
+        87506
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:12:42.552315+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:22:30.494646+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-29T21:00:00-03:00",
-        "humidity": 57.0,
-        "pressure": 858.6,
-        "feels_like": null,
-        "temperature": 1.0,
+        "date": "2026-07-01T21:00:00-03:00",
+        "humidity": 77.0,
+        "pressure": 869.2,
+        "feels_like": -10.3,
+        "temperature": -5.6,
         "visibility": 20.0,
         "weather": {
-          "description": "Despejado",
-          "id": 3
+          "description": "Parcialmente nublado",
+          "id": 25
         },
         "wind": {
-          "direction": "Noroeste",
-          "deg": 315.0,
-          "speed": 4.0
+          "direction": "Norte",
+          "deg": 360.0,
+          "speed": 12.0
         },
         "station_id": 87506,
         "location": {
@@ -2497,32 +2499,32 @@
       }
     },
     "87509": {
-      "query_id": 87509,
+      "station_number": 87509,
+      "station_name": "SAN RAFAEL AERO",
       "representative_locality_id": 9550,
-      "expected_station_name": "SAN RAFAEL AERO",
       "locality_count": 44,
+      "source_station_numbers": [
+        87509
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:12:44.247622+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:22:32.237772+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-29T21:00:00-03:00",
-        "humidity": 56.0,
-        "pressure": 932.0,
-        "feels_like": 1.2,
-        "temperature": 3.6,
+        "date": "2026-07-01T21:00:00-03:00",
+        "humidity": 93.0,
+        "pressure": 945.7,
+        "feels_like": null,
+        "temperature": 0.4,
         "visibility": 20.0,
         "weather": {
-          "description": "Despejado",
-          "id": 3
+          "description": "Cubierto",
+          "id": 43
         },
         "wind": {
-          "direction": "Oeste",
-          "deg": 270.0,
-          "speed": 10.0
+          "direction": "Calma",
+          "deg": null,
+          "speed": null
         },
         "station_id": 87509,
         "location": {
@@ -2540,32 +2542,32 @@
       }
     },
     "87532": {
-      "query_id": 87532,
+      "station_number": 87532,
+      "station_name": "GENERAL PICO AERO",
       "representative_locality_id": 8802,
-      "expected_station_name": "GENERAL PICO AERO",
       "locality_count": 54,
+      "source_station_numbers": [
+        87532
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:12:45.942312+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:22:34.000443+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-29T21:00:00-03:00",
-        "humidity": 71.0,
-        "pressure": 1003.4,
-        "feels_like": 5.9,
-        "temperature": 6.8,
+        "date": "2026-07-01T21:00:00-03:00",
+        "humidity": 66.0,
+        "pressure": 1016.0,
+        "feels_like": -0.3,
+        "temperature": 3.3,
         "visibility": 20.0,
         "weather": {
-          "description": "Despejado",
-          "id": 3
+          "description": "Cubierto",
+          "id": 43
         },
         "wind": {
-          "direction": "Norte",
-          "deg": 360.0,
-          "speed": 6.0
+          "direction": "Sur",
+          "deg": 180.0,
+          "speed": 15.0
         },
         "station_id": 87532,
         "location": {
@@ -2583,32 +2585,32 @@
       }
     },
     "87534": {
-      "query_id": 87534,
+      "station_number": 87534,
+      "station_name": "LABOULAYE AERO",
       "representative_locality_id": 7098,
-      "expected_station_name": "LABOULAYE AERO",
       "locality_count": 80,
+      "source_station_numbers": [
+        87534
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:12:47.656869+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:22:35.792733+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-29T21:00:00-03:00",
+        "date": "2026-07-01T21:00:00-03:00",
         "humidity": 68.0,
-        "pressure": 1004.9,
-        "feels_like": null,
-        "temperature": 5.1,
+        "pressure": 1015.2,
+        "feels_like": 5.3,
+        "temperature": 7.1,
         "visibility": 10.0,
         "weather": {
-          "description": "Despejado",
-          "id": 3
+          "description": "Cubierto",
+          "id": 43
         },
         "wind": {
-          "direction": "Calma",
-          "deg": null,
-          "speed": null
+          "direction": "Sur",
+          "deg": 180.0,
+          "speed": 10.0
         },
         "station_id": 87534,
         "location": {
@@ -2626,32 +2628,32 @@
       }
     },
     "87540": {
-      "query_id": 87540,
+      "station_number": 87540,
+      "station_name": "TRENQUE LAUQUEN",
       "representative_locality_id": 3865,
-      "expected_station_name": "TRENQUE LAUQUEN",
       "locality_count": 72,
+      "source_station_numbers": [
+        87540
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:12:49.367675+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:22:37.565999+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-29T21:00:00-03:00",
-        "humidity": 81.0,
-        "pressure": 1009.8,
-        "feels_like": null,
-        "temperature": 7.2,
+        "date": "2026-07-01T21:00:00-03:00",
+        "humidity": 64.0,
+        "pressure": 1021.8,
+        "feels_like": 1.3,
+        "temperature": 5.4,
         "visibility": 15.0,
         "weather": {
-          "description": "Despejado",
-          "id": 3
+          "description": "Parcialmente nublado",
+          "id": 25
         },
         "wind": {
-          "direction": "Sudeste",
-          "deg": 135.0,
-          "speed": 4.0
+          "direction": "Sur",
+          "deg": 180.0,
+          "speed": 23.0
         },
         "station_id": 87540,
         "location": {
@@ -2669,32 +2671,32 @@
       }
     },
     "87544": {
-      "query_id": 87544,
+      "station_number": 87544,
+      "station_name": "PEHUAJO AERO",
       "representative_locality_id": 3885,
-      "expected_station_name": "PEHUAJO AERO",
       "locality_count": 53,
+      "source_station_numbers": [
+        87544
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:12:51.064921+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:22:39.314556+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-29T21:00:00-03:00",
-        "humidity": 76.0,
-        "pressure": 1010.9,
-        "feels_like": 4.6,
-        "temperature": 5.6,
+        "date": "2026-07-01T21:00:00-03:00",
+        "humidity": 84.0,
+        "pressure": 1022.1,
+        "feels_like": -0.2,
+        "temperature": 3.6,
         "visibility": 15.0,
         "weather": {
-          "description": "Despejado",
-          "id": 3
+          "description": "Mayormente nublado",
+          "id": 37
         },
         "wind": {
-          "direction": "Sudoeste",
-          "deg": 225.0,
-          "speed": 6.0
+          "direction": "Sur",
+          "deg": 180.0,
+          "speed": 17.0
         },
         "station_id": 87544,
         "location": {
@@ -2712,32 +2714,32 @@
       }
     },
     "87548": {
-      "query_id": 87548,
+      "station_number": 87548,
+      "station_name": "JUNIN AERO",
       "representative_locality_id": 4712,
-      "expected_station_name": "JUNIN AERO",
       "locality_count": 140,
+      "source_station_numbers": [
+        87548
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:12:52.775940+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:22:41.101620+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-30T02:00:00-03:00",
-        "humidity": 89.0,
-        "pressure": 1011.6,
-        "feels_like": null,
-        "temperature": -1.3,
-        "visibility": 10.0,
+        "date": "2026-07-02T01:00:00-03:00",
+        "humidity": 79.0,
+        "pressure": 1023.2,
+        "feels_like": 2.2,
+        "temperature": 4.8,
+        "visibility": 15.0,
         "weather": {
-          "description": "Despejado",
-          "id": 3
+          "description": "Parcialmente nublado",
+          "id": 25
         },
         "wind": {
-          "direction": "Calma",
-          "deg": null,
-          "speed": null
+          "direction": "Sur",
+          "deg": 180.0,
+          "speed": 12.0
         },
         "station_id": 87548,
         "location": {
@@ -2755,32 +2757,32 @@
       }
     },
     "87550": {
-      "query_id": 87550,
+      "station_number": 87550,
+      "station_name": "NUEVE DE JULIO",
       "representative_locality_id": 3989,
-      "expected_station_name": "NUEVE DE JULIO",
       "locality_count": 110,
+      "source_station_numbers": [
+        87550
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:12:54.493231+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:22:42.854484+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-29T21:00:00-03:00",
-        "humidity": 77.0,
-        "pressure": 1012.2,
-        "feels_like": null,
-        "temperature": 6.1,
+        "date": "2026-07-01T21:00:00-03:00",
+        "humidity": 72.0,
+        "pressure": 1022.1,
+        "feels_like": 2.4,
+        "temperature": 6.4,
         "visibility": 15.0,
         "weather": {
-          "description": "Despejado",
-          "id": 3
+          "description": "Algo nublado",
+          "id": 19
         },
         "wind": {
-          "direction": "Noreste",
-          "deg": 45.0,
-          "speed": 4.0
+          "direction": "Sudeste",
+          "deg": 135.0,
+          "speed": 25.0
         },
         "station_id": 87550,
         "location": {
@@ -2798,32 +2800,32 @@
       }
     },
     "87553": {
-      "query_id": 87553,
+      "station_number": 87553,
+      "station_name": "SAN FERNANDO AERO",
       "representative_locality_id": 4750,
-      "expected_station_name": "SAN FERNANDO AERO",
       "locality_count": 29,
+      "source_station_numbers": [
+        87553
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:12:56.191020+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:22:44.615267+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-30T02:00:00-03:00",
-        "humidity": 95.0,
-        "pressure": 1020.6,
-        "feels_like": null,
-        "temperature": 3.0,
-        "visibility": 7.0,
+        "date": "2026-07-02T01:00:00-03:00",
+        "humidity": 64.0,
+        "pressure": 1030.0,
+        "feels_like": 4.0,
+        "temperature": 7.0,
+        "visibility": 10.0,
         "weather": {
-          "description": "Despejado con neblina",
-          "id": 61
+          "description": "Ligeramente nublado",
+          "id": 13
         },
         "wind": {
-          "direction": "Calma",
-          "deg": null,
-          "speed": null
+          "direction": "Sur",
+          "deg": 180.0,
+          "speed": 17.0
         },
         "station_id": 87553,
         "location": {
@@ -2841,32 +2843,32 @@
       }
     },
     "87563": {
-      "query_id": 87563,
+      "station_number": 87563,
+      "station_name": "LAS FLORES",
       "representative_locality_id": 4129,
-      "expected_station_name": "LAS FLORES",
       "locality_count": 59,
+      "source_station_numbers": [
+        87563
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:12:57.893405+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:22:46.374602+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-29T21:00:00-03:00",
-        "humidity": 87.0,
-        "pressure": 1016.0,
-        "feels_like": null,
-        "temperature": 4.0,
+        "date": "2026-07-01T21:00:00-03:00",
+        "humidity": 79.0,
+        "pressure": 1026.4,
+        "feels_like": 2.9,
+        "temperature": 5.4,
         "visibility": 15.0,
         "weather": {
-          "description": "Despejado",
-          "id": 3
+          "description": "Parcialmente nublado",
+          "id": 25
         },
         "wind": {
-          "direction": "Calma",
-          "deg": null,
-          "speed": null
+          "direction": "Sur",
+          "deg": 180.0,
+          "speed": 12.0
         },
         "station_id": 87563,
         "location": {
@@ -2884,32 +2886,32 @@
       }
     },
     "87570": {
-      "query_id": 87570,
+      "station_number": 87570,
+      "station_name": "CAMPO DE MAYO",
       "representative_locality_id": 10644,
-      "expected_station_name": "CAMPO DE MAYO",
       "locality_count": 12,
+      "source_station_numbers": [
+        87570
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:12:59.590245+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:22:48.164339+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-29T21:00:00-03:00",
-        "humidity": 86.0,
-        "pressure": 1018.6,
-        "feels_like": 3.4,
-        "temperature": 4.6,
+        "date": "2026-07-01T21:00:00-03:00",
+        "humidity": 89.0,
+        "pressure": 1023.0,
+        "feels_like": 3.6,
+        "temperature": 6.2,
         "visibility": 10.0,
         "weather": {
-          "description": "Despejado",
-          "id": 3
+          "description": "Parcialmente nublado",
+          "id": 25
         },
         "wind": {
           "direction": "Sur",
           "deg": 180.0,
-          "speed": 6.0
+          "speed": 13.0
         },
         "station_id": 87570,
         "location": {
@@ -2927,32 +2929,32 @@
       }
     },
     "87571": {
-      "query_id": 87571,
+      "station_number": 87571,
+      "station_name": "EL PALOMAR AERO",
       "representative_locality_id": 10630,
-      "expected_station_name": "EL PALOMAR AERO",
       "locality_count": 15,
+      "source_station_numbers": [
+        87571
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:13:01.275231+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:22:49.957542+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-30T01:00:00-03:00",
-        "humidity": 96.0,
-        "pressure": 1020.2,
-        "feels_like": null,
-        "temperature": -1.2,
+        "date": "2026-07-02T01:00:00-03:00",
+        "humidity": 71.0,
+        "pressure": 1029.6,
+        "feels_like": 3.2,
+        "temperature": 5.6,
         "visibility": 10.0,
         "weather": {
-          "description": "Despejado",
-          "id": 3
+          "description": "Ligeramente nublado",
+          "id": 13
         },
         "wind": {
           "direction": "Sur",
           "deg": 180.0,
-          "speed": 2.0
+          "speed": 12.0
         },
         "station_id": 87571,
         "location": {
@@ -2970,32 +2972,32 @@
       }
     },
     "87572": {
-      "query_id": 87572,
+      "station_number": 87572,
+      "station_name": "MARIANO MORENO AERO",
       "representative_locality_id": 4811,
-      "expected_station_name": "MARIANO MORENO AERO",
       "locality_count": 76,
+      "source_station_numbers": [
+        87572
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:13:02.972995+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:22:51.695175+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-29T21:00:00-03:00",
-        "humidity": 82.0,
-        "pressure": 1017.6,
-        "feels_like": 3.5,
-        "temperature": 5.2,
-        "visibility": 7.0,
+        "date": "2026-07-01T21:00:00-03:00",
+        "humidity": 66.0,
+        "pressure": 1025.4,
+        "feels_like": 6.0,
+        "temperature": 8.6,
+        "visibility": 10.0,
         "weather": {
-          "description": "Despejado con humo",
-          "id": 3
+          "description": "Mayormente nublado",
+          "id": 37
         },
         "wind": {
-          "direction": "Sur",
-          "deg": 180.0,
-          "speed": 8.0
+          "direction": "Sudeste",
+          "deg": 135.0,
+          "speed": 17.0
         },
         "station_id": 87572,
         "location": {
@@ -3013,32 +3015,32 @@
       }
     },
     "87573": {
-      "query_id": 87573,
+      "station_number": 87573,
+      "station_name": "MERLO AERO",
       "representative_locality_id": 10625,
-      "expected_station_name": "MERLO AERO",
       "locality_count": 17,
+      "source_station_numbers": [
+        87573
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:13:04.683867+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:22:53.451228+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-30T00:00:00-03:00",
-        "humidity": 92.0,
-        "pressure": 1018.6,
-        "feels_like": null,
-        "temperature": 4.0,
+        "date": "2026-07-02T00:00:00-03:00",
+        "humidity": 71.0,
+        "pressure": 1024.8,
+        "feels_like": 4.0,
+        "temperature": 6.0,
         "visibility": 10.0,
         "weather": {
-          "description": "Despejado",
-          "id": 3
+          "description": "Algo nublado",
+          "id": 19
         },
         "wind": {
-          "direction": "Calma",
-          "deg": null,
-          "speed": null
+          "direction": "Sudeste",
+          "deg": 135.0,
+          "speed": 10.0
         },
         "station_id": 87573,
         "location": {
@@ -3056,32 +3058,32 @@
       }
     },
     "87574": {
-      "query_id": 87574,
+      "station_number": 87574,
+      "station_name": "MORON AERO",
       "representative_locality_id": 10629,
-      "expected_station_name": "MORON AERO",
       "locality_count": 4,
+      "source_station_numbers": [
+        87574
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:13:06.388048+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:22:55.217796+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-30T02:00:00-03:00",
-        "humidity": 77.0,
-        "pressure": 1018.2,
-        "feels_like": null,
-        "temperature": 3.4,
+        "date": "2026-07-02T00:00:00-03:00",
+        "humidity": 78.0,
+        "pressure": 1027.0,
+        "feels_like": 4.5,
+        "temperature": 7.4,
         "visibility": 10.0,
         "weather": {
-          "description": "Despejado",
-          "id": 3
+          "description": "Algo nublado",
+          "id": 19
         },
         "wind": {
-          "direction": "Sudoeste",
-          "deg": 225.0,
-          "speed": 2.0
+          "direction": "Sur",
+          "deg": 180.0,
+          "speed": 17.0
         },
         "station_id": 87574,
         "location": {
@@ -3099,32 +3101,32 @@
       }
     },
     "87576": {
-      "query_id": 87576,
+      "station_number": 87576,
+      "station_name": "EZEIZA AERO",
       "representative_locality_id": 4836,
-      "expected_station_name": "EZEIZA AERO",
       "locality_count": 46,
+      "source_station_numbers": [
+        87576
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:13:08.088762+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:22:56.958078+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-30T02:00:00-03:00",
-        "humidity": 95.0,
-        "pressure": 1019.2,
-        "feels_like": null,
-        "temperature": 1.3,
+        "date": "2026-07-02T01:00:00-03:00",
+        "humidity": 79.0,
+        "pressure": 1029.2,
+        "feels_like": 2.1,
+        "temperature": 4.0,
         "visibility": 10.0,
         "weather": {
           "description": "Despejado",
           "id": 3
         },
         "wind": {
-          "direction": "Calma",
-          "deg": null,
-          "speed": null
+          "direction": "Sur",
+          "deg": 180.0,
+          "speed": 8.0
         },
         "station_id": 87576,
         "location": {
@@ -3142,23 +3144,23 @@
       }
     },
     "87582": {
-      "query_id": 87582,
+      "station_number": 87582,
+      "station_name": "AEROPARQUE AERO",
       "representative_locality_id": 4871,
-      "expected_station_name": "AEROPARQUE AERO",
       "locality_count": 16,
+      "source_station_numbers": [
+        87582
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:13:09.781455+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:22:58.704813+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-30T02:00:00-03:00",
-        "humidity": 70.0,
-        "pressure": 1020.6,
-        "feels_like": 7.0,
-        "temperature": 8.2,
+        "date": "2026-07-02T01:00:00-03:00",
+        "humidity": 60.0,
+        "pressure": 1030.0,
+        "feels_like": 4.6,
+        "temperature": 7.3,
         "visibility": 10.0,
         "weather": {
           "description": "Despejado",
@@ -3167,7 +3169,7 @@
         "wind": {
           "direction": "Sur",
           "deg": 180.0,
-          "speed": 8.0
+          "speed": 15.0
         },
         "station_id": 87582,
         "location": {
@@ -3185,32 +3187,32 @@
       }
     },
     "87585": {
-      "query_id": 87585,
+      "station_number": 87585,
+      "station_name": "BUENOS AIRES OBSERVATORIO",
       "representative_locality_id": 10602,
-      "expected_station_name": "BUENOS AIRES OBSERVATORIO",
       "locality_count": 7,
+      "source_station_numbers": [
+        87585
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:13:11.483355+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:23:00.459233+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-30T02:00:00-03:00",
-        "humidity": 86.0,
-        "pressure": 1018.4,
-        "feels_like": null,
-        "temperature": 4.9,
+        "date": "2026-07-02T01:00:00-03:00",
+        "humidity": 64.0,
+        "pressure": 1027.7,
+        "feels_like": 4.8,
+        "temperature": 7.0,
         "visibility": 10.0,
         "weather": {
           "description": "Despejado",
           "id": 3
         },
         "wind": {
-          "direction": "Sur",
-          "deg": 180.0,
-          "speed": 4.0
+          "direction": "Sudeste",
+          "deg": 135.0,
+          "speed": 12.0
         },
         "station_id": 87585,
         "location": {
@@ -3228,32 +3230,32 @@
       }
     },
     "87593": {
-      "query_id": 87593,
+      "station_number": 87593,
+      "station_name": "LA PLATA AERO",
       "representative_locality_id": 10573,
-      "expected_station_name": "LA PLATA AERO",
       "locality_count": 37,
+      "source_station_numbers": [
+        87593
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:13:13.191873+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:23:02.228669+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-30T02:00:00-03:00",
-        "humidity": 98.0,
-        "pressure": 1019.3,
-        "feels_like": null,
-        "temperature": 0.6,
+        "date": "2026-07-02T01:00:00-03:00",
+        "humidity": 80.0,
+        "pressure": 1028.8,
+        "feels_like": 0.1,
+        "temperature": 3.4,
         "visibility": 10.0,
         "weather": {
-          "description": "Despejado",
-          "id": 3
+          "description": "Ligeramente nublado",
+          "id": 13
         },
         "wind": {
-          "direction": "Calma",
-          "deg": null,
-          "speed": null
+          "direction": "Sur",
+          "deg": 180.0,
+          "speed": 13.0
         },
         "station_id": 87593,
         "location": {
@@ -3271,32 +3273,32 @@
       }
     },
     "87596": {
-      "query_id": 87596,
+      "station_number": 87596,
+      "station_name": "PUNTA INDIO B.A.",
       "representative_locality_id": 3830,
-      "expected_station_name": "PUNTA INDIO B.A.",
       "locality_count": 15,
+      "source_station_numbers": [
+        87596
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:13:14.890951+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:23:04.019801+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-29T21:00:00-03:00",
-        "humidity": 91.0,
-        "pressure": 1018.6,
-        "feels_like": null,
-        "temperature": 5.2,
+        "date": "2026-07-01T21:00:00-03:00",
+        "humidity": 73.0,
+        "pressure": 1026.6,
+        "feels_like": 4.1,
+        "temperature": 8.0,
         "visibility": 10.0,
         "weather": {
-          "description": "Despejado",
-          "id": 3
+          "description": "Cubierto",
+          "id": 43
         },
         "wind": {
-          "direction": "Oeste",
-          "deg": 270.0,
-          "speed": 4.0
+          "direction": "Sur",
+          "deg": 180.0,
+          "speed": 28.0
         },
         "station_id": 87596,
         "location": {
@@ -3314,32 +3316,32 @@
       }
     },
     "87616": {
-      "query_id": 87616,
+      "station_number": 87616,
+      "station_name": "VICTORICA",
       "representative_locality_id": 8816,
-      "expected_station_name": "VICTORICA",
       "locality_count": 34,
+      "source_station_numbers": [
+        87616
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:13:16.604415+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:23:05.789279+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-29T21:00:00-03:00",
-        "humidity": 68.0,
-        "pressure": 982.6,
-        "feels_like": null,
-        "temperature": 6.9,
+        "date": "2026-07-01T21:00:00-03:00",
+        "humidity": 73.0,
+        "pressure": 996.8,
+        "feels_like": 1.9,
+        "temperature": 4.2,
         "visibility": 40.0,
         "weather": {
-          "description": "Despejado",
-          "id": 3
+          "description": "Cubierto",
+          "id": 43
         },
         "wind": {
-          "direction": "Este",
-          "deg": 90.0,
-          "speed": 4.0
+          "direction": "Sur",
+          "deg": 180.0,
+          "speed": 10.0
         },
         "station_id": 87616,
         "location": {
@@ -3357,32 +3359,32 @@
       }
     },
     "87623": {
-      "query_id": 87623,
+      "station_number": 87623,
+      "station_name": "SANTA ROSA AERO",
       "representative_locality_id": 8861,
-      "expected_station_name": "SANTA ROSA AERO",
       "locality_count": 58,
+      "source_station_numbers": [
+        87623
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:13:18.297065+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:23:07.552893+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-30T02:00:00-03:00",
-        "humidity": 70.0,
-        "pressure": 995.4,
-        "feels_like": 0.6,
-        "temperature": 4.3,
+        "date": "2026-07-02T01:00:00-03:00",
+        "humidity": 75.0,
+        "pressure": 1013.4,
+        "feels_like": -1.4,
+        "temperature": 1.4,
         "visibility": 30.0,
         "weather": {
           "description": "Despejado",
           "id": 3
         },
         "wind": {
-          "direction": "Norte",
-          "deg": 360.0,
-          "speed": 17.0
+          "direction": "Sur",
+          "deg": 180.0,
+          "speed": 10.0
         },
         "station_id": 87623,
         "location": {
@@ -3400,32 +3402,33 @@
       }
     },
     "87637": {
-      "query_id": 87637,
+      "station_number": 87637,
+      "station_name": "CORONEL SUAREZ AERO",
       "representative_locality_id": 4349,
-      "expected_station_name": "CORONEL SUAREZ AERO",
-      "locality_count": 30,
+      "locality_count": 31,
+      "source_station_numbers": [
+        87637,
+        87683
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:13:19.995395+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:23:09.291244+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-29T21:00:00-03:00",
-        "humidity": 81.0,
-        "pressure": 992.6,
-        "feels_like": null,
-        "temperature": 1.8,
+        "date": "2026-07-01T21:00:00-03:00",
+        "humidity": 80.0,
+        "pressure": 1004.6,
+        "feels_like": -2.5,
+        "temperature": -0.6,
         "visibility": 12.0,
         "weather": {
           "description": "Despejado",
           "id": 3
         },
         "wind": {
-          "direction": "Calma",
-          "deg": null,
-          "speed": null
+          "direction": "Sur",
+          "deg": 180.0,
+          "speed": 6.0
         },
         "station_id": 87637,
         "location": {
@@ -3443,32 +3446,32 @@
       }
     },
     "87640": {
-      "query_id": 87640,
+      "station_number": 87640,
+      "station_name": "BOLIVAR AERO",
       "representative_locality_id": 4177,
-      "expected_station_name": "BOLIVAR AERO",
       "locality_count": 25,
+      "source_station_numbers": [
+        87640
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:13:21.694373+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:23:11.045030+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-29T21:00:00-03:00",
-        "humidity": 82.0,
-        "pressure": 1010.2,
-        "feels_like": null,
-        "temperature": 3.3,
-        "visibility": 10.0,
+        "date": "2026-07-01T21:00:00-03:00",
+        "humidity": 84.0,
+        "pressure": 1021.4,
+        "feels_like": 1.4,
+        "temperature": 3.4,
+        "visibility": 15.0,
         "weather": {
-          "description": "Despejado",
-          "id": 3
+          "description": "Ligeramente nublado",
+          "id": 13
         },
         "wind": {
-          "direction": "Calma",
-          "deg": null,
-          "speed": null
+          "direction": "Sur",
+          "deg": 180.0,
+          "speed": 8.0
         },
         "station_id": 87640,
         "location": {
@@ -3486,32 +3489,32 @@
       }
     },
     "87641": {
-      "query_id": 87641,
+      "station_number": 87641,
+      "station_name": "AZUL AERO",
       "representative_locality_id": 4116,
-      "expected_station_name": "AZUL AERO",
       "locality_count": 27,
+      "source_station_numbers": [
+        87641
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:13:23.395770+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:23:12.824471+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-30T02:00:00-03:00",
-        "humidity": 99.0,
-        "pressure": 1002.9,
-        "feels_like": null,
-        "temperature": -1.7,
+        "date": "2026-07-02T01:00:00-03:00",
+        "humidity": 96.0,
+        "pressure": 1015.2,
+        "feels_like": -4.4,
+        "temperature": -1.1,
         "visibility": 15.0,
         "weather": {
           "description": "Despejado",
           "id": 3
         },
         "wind": {
-          "direction": "Este",
-          "deg": 90.0,
-          "speed": 4.0
+          "direction": "Sur",
+          "deg": 180.0,
+          "speed": 10.0
         },
         "station_id": 87641,
         "location": {
@@ -3529,32 +3532,32 @@
       }
     },
     "87643": {
-      "query_id": 87643,
+      "station_number": 87643,
+      "station_name": "OLAVARRIA AERO",
       "representative_locality_id": 4200,
-      "expected_station_name": "OLAVARRIA AERO",
       "locality_count": 38,
+      "source_station_numbers": [
+        87643
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:13:25.090454+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:23:14.576382+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-29T21:00:00-03:00",
-        "humidity": 87.0,
-        "pressure": 1001.0,
+        "date": "2026-07-01T21:00:00-03:00",
+        "humidity": 90.0,
+        "pressure": 1007.9,
         "feels_like": null,
-        "temperature": 4.1,
+        "temperature": 1.9,
         "visibility": 15.0,
         "weather": {
           "description": "Despejado",
           "id": 3
         },
         "wind": {
-          "direction": "Calma",
-          "deg": null,
-          "speed": null
+          "direction": "Sur",
+          "deg": 180.0,
+          "speed": 4.0
         },
         "station_id": 87643,
         "location": {
@@ -3572,31 +3575,31 @@
       }
     },
     "87645": {
-      "query_id": 87645,
+      "station_number": 87645,
+      "station_name": "TANDIL AERO",
       "representative_locality_id": 4265,
-      "expected_station_name": "TANDIL AERO",
       "locality_count": 16,
+      "source_station_numbers": [
+        87645
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:13:26.785313+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:23:16.310866+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-29T21:00:00-03:00",
-        "humidity": 89.0,
-        "pressure": 999.8,
-        "feels_like": -1.5,
-        "temperature": 0.9,
+        "date": "2026-07-01T21:00:00-03:00",
+        "humidity": 92.0,
+        "pressure": 1009.8,
+        "feels_like": -2.8,
+        "temperature": -0.2,
         "visibility": 15.0,
         "weather": {
-          "description": "Despejado",
-          "id": 3
+          "description": "Ligeramente nublado",
+          "id": 13
         },
         "wind": {
-          "direction": "Sur",
-          "deg": 180.0,
+          "direction": "Sudoeste",
+          "deg": 225.0,
           "speed": 8.0
         },
         "station_id": 87645,
@@ -3615,32 +3618,32 @@
       }
     },
     "87648": {
-      "query_id": 87648,
+      "station_number": 87648,
+      "station_name": "DOLORES AERO",
       "representative_locality_id": 4146,
-      "expected_station_name": "DOLORES AERO",
       "locality_count": 26,
+      "source_station_numbers": [
+        87648
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:13:28.482101+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:23:18.079173+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-29T21:00:00-03:00",
-        "humidity": 89.0,
-        "pressure": 1020.1,
-        "feels_like": 3.4,
-        "temperature": 4.6,
+        "date": "2026-07-01T21:00:00-03:00",
+        "humidity": 78.0,
+        "pressure": 1027.7,
+        "feels_like": 3.5,
+        "temperature": 5.6,
         "visibility": 10.0,
         "weather": {
-          "description": "Despejado",
-          "id": 3
+          "description": "Nublado",
+          "id": 43
         },
         "wind": {
-          "direction": "Sur",
-          "deg": 180.0,
-          "speed": 6.0
+          "direction": "Sudoeste",
+          "deg": 225.0,
+          "speed": 10.0
         },
         "station_id": 87648,
         "location": {
@@ -3658,27 +3661,27 @@
       }
     },
     "87649": {
-      "query_id": 87649,
+      "station_number": 87649,
+      "station_name": "BENITO JUAREZ AERO",
       "representative_locality_id": 4251,
-      "expected_station_name": "BENITO JUAREZ AERO",
       "locality_count": 7,
+      "source_station_numbers": [
+        87649
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:13:30.198909+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:23:19.862294+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-29T21:00:00-03:00",
-        "humidity": 98.0,
-        "pressure": 994.9,
+        "date": "2026-07-01T21:00:00-03:00",
+        "humidity": 88.0,
+        "pressure": 1005.4,
         "feels_like": null,
-        "temperature": 1.4,
-        "visibility": 12.0,
+        "temperature": -0.6,
+        "visibility": 15.0,
         "weather": {
-          "description": "Despejado",
-          "id": 3
+          "description": "Ligeramente nublado",
+          "id": 13
         },
         "wind": {
           "direction": "Calma",
@@ -3701,32 +3704,32 @@
       }
     },
     "87663": {
-      "query_id": 87663,
+      "station_number": 87663,
+      "station_name": "VILLA GESELL AERO",
       "representative_locality_id": 4308,
-      "expected_station_name": "VILLA GESELL AERO",
       "locality_count": 30,
+      "source_station_numbers": [
+        87663
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:13:31.904032+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:23:21.620128+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-29T21:00:00-03:00",
-        "humidity": 92.0,
-        "pressure": 1020.0,
-        "feels_like": 1.6,
-        "temperature": 3.0,
+        "date": "2026-07-01T21:00:00-03:00",
+        "humidity": 73.0,
+        "pressure": 1028.5,
+        "feels_like": 0.9,
+        "temperature": 4.5,
         "visibility": 10.0,
         "weather": {
-          "description": "Ligeramente nublado",
-          "id": 13
+          "description": "Parcialmente nublado",
+          "id": 25
         },
         "wind": {
           "direction": "Sur",
           "deg": 180.0,
-          "speed": 6.0
+          "speed": 17.0
         },
         "station_id": 87663,
         "location": {
@@ -3744,32 +3747,32 @@
       }
     },
     "87679": {
-      "query_id": 87679,
+      "station_number": 87679,
+      "station_name": "PIGUE AERO",
       "representative_locality_id": 4342,
-      "expected_station_name": "PIGUE AERO",
       "locality_count": 70,
+      "source_station_numbers": [
+        87679
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:13:33.611040+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:23:23.368533+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-29T21:00:00-03:00",
-        "humidity": 85.0,
-        "pressure": 983.8,
-        "feels_like": null,
-        "temperature": 0.3,
+        "date": "2026-07-01T21:00:00-03:00",
+        "humidity": 76.0,
+        "pressure": 996.1,
+        "feels_like": -3.9,
+        "temperature": -0.7,
         "visibility": 20.0,
         "weather": {
-          "description": "Despejado",
-          "id": 3
+          "description": "Ligeramente nublado",
+          "id": 13
         },
         "wind": {
-          "direction": "Calma",
-          "deg": null,
-          "speed": null
+          "direction": "Sur",
+          "deg": 180.0,
+          "speed": 10.0
         },
         "station_id": 87679,
         "location": {
@@ -3787,32 +3790,32 @@
       }
     },
     "87688": {
-      "query_id": 87688,
+      "station_number": 87688,
+      "station_name": "TRES ARROYOS",
       "representative_locality_id": 4465,
-      "expected_station_name": "TRES ARROYOS",
       "locality_count": 45,
+      "source_station_numbers": [
+        87688
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:13:35.319505+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:23:26.881588+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-29T21:00:00-03:00",
-        "humidity": 89.0,
-        "pressure": 1006.4,
+        "date": "2026-07-01T21:00:00-03:00",
+        "humidity": 83.0,
+        "pressure": 1018.3,
         "feels_like": null,
-        "temperature": 2.9,
-        "visibility": 8.0,
+        "temperature": 2.6,
+        "visibility": 6.0,
         "weather": {
-          "description": "Despejado con neblina",
+          "description": "Parcialmente nublado con neblina",
           "id": 61
         },
         "wind": {
-          "direction": "Calma",
-          "deg": null,
-          "speed": null
+          "direction": "Oeste",
+          "deg": 270.0,
+          "speed": 4.0
         },
         "station_id": 87688,
         "location": {
@@ -3830,32 +3833,32 @@
       }
     },
     "87692": {
-      "query_id": 87692,
+      "station_number": 87692,
+      "station_name": "MAR DEL PLATA AERO",
       "representative_locality_id": 10574,
-      "expected_station_name": "MAR DEL PLATA AERO",
       "locality_count": 54,
+      "source_station_numbers": [
+        87692
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:13:37.022535+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:23:28.641450+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-30T02:00:00-03:00",
-        "humidity": null,
-        "pressure": 1018.0,
-        "feels_like": -2.9,
-        "temperature": -0.3,
+        "date": "2026-07-02T01:00:00-03:00",
+        "humidity": 79.0,
+        "pressure": 1028.5,
+        "feels_like": null,
+        "temperature": 2.0,
         "visibility": 10.0,
         "weather": {
-          "description": "Despejado",
-          "id": 3
+          "description": "Ligeramente nublado",
+          "id": 13
         },
         "wind": {
           "direction": "Oeste",
           "deg": 270.0,
-          "speed": 8.0
+          "speed": 4.0
         },
         "station_id": 87692,
         "location": {
@@ -3873,27 +3876,27 @@
       }
     },
     "87715": {
-      "query_id": 87715,
+      "station_number": 87715,
+      "station_name": "NEUQUEN AERO",
       "representative_locality_id": 9905,
-      "expected_station_name": "NEUQUEN AERO",
       "locality_count": 52,
+      "source_station_numbers": [
+        87715
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:13:39.026100+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:23:30.441147+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-30T02:00:00-03:00",
-        "humidity": 88.0,
-        "pressure": 982.6,
+        "date": "2026-07-02T01:00:00-03:00",
+        "humidity": 79.0,
+        "pressure": 1004.6,
         "feels_like": null,
-        "temperature": -1.8,
-        "visibility": 10.0,
+        "temperature": -4.3,
+        "visibility": 8.0,
         "weather": {
-          "description": "Despejado con humo",
-          "id": 3
+          "description": "Despejado con neblina",
+          "id": 61
         },
         "wind": {
           "direction": "Calma",
@@ -3916,23 +3919,23 @@
       }
     },
     "87719": {
-      "query_id": 87719,
+      "station_number": 87719,
+      "station_name": "CIPOLLETTI",
       "representative_locality_id": 20,
-      "expected_station_name": "CIPOLLETTI",
       "locality_count": 50,
+      "source_station_numbers": [
+        87719
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:13:40.719125+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:23:32.195633+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-29T21:00:00-03:00",
-        "humidity": 67.0,
-        "pressure": 986.2,
+        "date": "2026-07-01T21:00:00-03:00",
+        "humidity": 73.0,
+        "pressure": 1004.5,
         "feels_like": null,
-        "temperature": 4.9,
+        "temperature": -0.9,
         "visibility": 25.0,
         "weather": {
           "description": "Despejado",
@@ -3959,27 +3962,27 @@
       }
     },
     "87736": {
-      "query_id": 87736,
+      "station_number": 87736,
+      "station_name": "RIO COLORADO",
       "representative_locality_id": 8915,
-      "expected_station_name": "RIO COLORADO",
       "locality_count": 23,
+      "source_station_numbers": [
+        87736
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:13:42.417428+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:23:33.940822+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-29T21:00:00-03:00",
-        "humidity": 81.0,
-        "pressure": 1009.0,
+        "date": "2026-07-01T21:00:00-03:00",
+        "humidity": 77.0,
+        "pressure": 1025.8,
         "feels_like": null,
-        "temperature": 1.4,
+        "temperature": 0.2,
         "visibility": 15.0,
         "weather": {
-          "description": "Despejado",
-          "id": 3
+          "description": "Parcialmente nublado",
+          "id": 25
         },
         "wind": {
           "direction": "Calma",
@@ -4002,32 +4005,32 @@
       }
     },
     "87750": {
-      "query_id": 87750,
+      "station_number": 87750,
+      "station_name": "BAHIA BLANCA AERO",
       "representative_locality_id": 4414,
-      "expected_station_name": "BAHIA BLANCA AERO",
       "locality_count": 41,
+      "source_station_numbers": [
+        87750
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:13:44.111826+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:23:35.713022+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-30T02:00:00-03:00",
-        "humidity": 93.0,
-        "pressure": 1007.8,
-        "feels_like": -3.6,
-        "temperature": 0.6,
+        "date": "2026-07-02T01:00:00-03:00",
+        "humidity": 94.0,
+        "pressure": 1025.8,
+        "feels_like": -4.5,
+        "temperature": -1.2,
         "visibility": 15.0,
         "weather": {
-          "description": "Despejado",
-          "id": 3
+          "description": "Ligeramente nublado",
+          "id": 13
         },
         "wind": {
-          "direction": "Norte",
-          "deg": 360.0,
-          "speed": 15.0
+          "direction": "Oeste",
+          "deg": 270.0,
+          "speed": 10.0
         },
         "station_id": 87750,
         "location": {
@@ -4045,32 +4048,32 @@
       }
     },
     "87761": {
-      "query_id": 87761,
+      "station_number": 87761,
+      "station_name": "CHAPELCO AERO",
       "representative_locality_id": 10030,
-      "expected_station_name": "CHAPELCO AERO",
       "locality_count": 122,
+      "source_station_numbers": [
+        87761
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:13:45.812898+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:23:37.475607+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-29T21:00:00-03:00",
-        "humidity": 73.0,
-        "pressure": 925.4,
-        "feels_like": 1.4,
-        "temperature": 3.8,
+        "date": "2026-07-01T21:00:00-03:00",
+        "humidity": 95.0,
+        "pressure": 939.8,
+        "feels_like": -5.9,
+        "temperature": -1.6,
         "visibility": 15.0,
         "weather": {
-          "description": "Despejado",
-          "id": 3
+          "description": "Ligeramente nublado",
+          "id": 13
         },
         "wind": {
-          "direction": "Sur",
-          "deg": 180.0,
-          "speed": 10.0
+          "direction": "Este",
+          "deg": 90.0,
+          "speed": 13.0
         },
         "station_id": 87761,
         "location": {
@@ -4088,32 +4091,32 @@
       }
     },
     "87765": {
-      "query_id": 87765,
+      "station_number": 87765,
+      "station_name": "BARILOCHE AERO",
       "representative_locality_id": 138,
-      "expected_station_name": "BARILOCHE AERO",
       "locality_count": 31,
+      "source_station_numbers": [
+        87765
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:13:47.543401+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:23:39.234934+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-30T02:00:00-03:00",
-        "humidity": 82.0,
-        "pressure": 916.6,
-        "feels_like": null,
-        "temperature": -2.7,
+        "date": "2026-07-02T01:00:00-03:00",
+        "humidity": 73.0,
+        "pressure": 935.2,
+        "feels_like": -11.1,
+        "temperature": -5.8,
         "visibility": 10.0,
         "weather": {
-          "description": "Parcialmente nublado",
-          "id": 25
+          "description": "Despejado",
+          "id": 3
         },
         "wind": {
-          "direction": "Oeste",
-          "deg": 270.0,
-          "speed": 4.0
+          "direction": "Sudeste",
+          "deg": 135.0,
+          "speed": 13.0
         },
         "station_id": 87765,
         "location": {
@@ -4131,27 +4134,27 @@
       }
     },
     "87774": {
-      "query_id": 87774,
+      "station_number": 87774,
+      "station_name": "MAQUINCHAO",
       "representative_locality_id": 176,
-      "expected_station_name": "MAQUINCHAO",
       "locality_count": 79,
+      "source_station_numbers": [
+        87774
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:13:49.519777+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:23:40.981365+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-30T00:00:00-03:00",
-        "humidity": 71.0,
-        "pressure": 912.4,
+        "date": "2026-07-02T00:00:00-03:00",
+        "humidity": 90.0,
+        "pressure": 930.9,
         "feels_like": null,
-        "temperature": 0.0,
+        "temperature": -7.6,
         "visibility": 40.0,
         "weather": {
-          "description": "Ligeramente nublado",
-          "id": 13
+          "description": "Despejado",
+          "id": 3
         },
         "wind": {
           "direction": "Calma",
@@ -4174,31 +4177,31 @@
       }
     },
     "87784": {
-      "query_id": 87784,
+      "station_number": 87784,
+      "station_name": "SAN ANTONIO OESTE AERO",
       "representative_locality_id": 118,
-      "expected_station_name": "SAN ANTONIO OESTE AERO",
       "locality_count": 45,
+      "source_station_numbers": [
+        87784
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:13:51.213809+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:23:42.750352+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-29T21:00:00-03:00",
-        "humidity": 78.0,
-        "pressure": 1016.0,
-        "feels_like": -2.4,
-        "temperature": 0.6,
+        "date": "2026-07-01T21:00:00-03:00",
+        "humidity": 50.0,
+        "pressure": 1035.8,
+        "feels_like": 0.5,
+        "temperature": 3.0,
         "visibility": 30.0,
         "weather": {
-          "description": "Despejado",
-          "id": 3
+          "description": "Ligeramente nublado",
+          "id": 13
         },
         "wind": {
-          "direction": "Noroeste",
-          "deg": 315.0,
+          "direction": "Sur",
+          "deg": 180.0,
           "speed": 10.0
         },
         "station_id": 87784,
@@ -4217,31 +4220,31 @@
       }
     },
     "87791": {
-      "query_id": 87791,
+      "station_number": 87791,
+      "station_name": "VIEDMA AERO",
       "representative_locality_id": 88,
-      "expected_station_name": "VIEDMA AERO",
       "locality_count": 26,
+      "source_station_numbers": [
+        87791
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:13:52.915736+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:23:44.532463+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-30T02:00:00-03:00",
-        "humidity": 71.0,
-        "pressure": 1013.3,
-        "feels_like": -1.7,
-        "temperature": 2.2,
+        "date": "2026-07-02T01:00:00-03:00",
+        "humidity": 94.0,
+        "pressure": 1034.9,
+        "feels_like": -1.5,
+        "temperature": 2.3,
         "visibility": 30.0,
         "weather": {
-          "description": "Despejado",
-          "id": 3
+          "description": "Parcialmente nublado con lluvia en la hora anterior",
+          "id": 25
         },
         "wind": {
-          "direction": "Noroeste",
-          "deg": 315.0,
+          "direction": "Oeste",
+          "deg": 270.0,
           "speed": 15.0
         },
         "station_id": 87791,
@@ -4260,27 +4263,27 @@
       }
     },
     "87800": {
-      "query_id": 87800,
+      "station_number": 87800,
+      "station_name": "EL BOLSON AERO",
       "representative_locality_id": 133,
-      "expected_station_name": "EL BOLSON AERO",
       "locality_count": 19,
+      "source_station_numbers": [
+        87800
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:13:54.621686+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:23:46.303907+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-29T21:00:00-03:00",
-        "humidity": 91.0,
-        "pressure": 978.9,
+        "date": "2026-07-01T21:00:00-03:00",
+        "humidity": 63.0,
+        "pressure": 994.9,
         "feels_like": null,
-        "temperature": 1.1,
+        "temperature": -2.0,
         "visibility": 30.0,
         "weather": {
-          "description": "Algo nublado",
-          "id": 19
+          "description": "Despejado",
+          "id": 3
         },
         "wind": {
           "direction": "Calma",
@@ -4303,32 +4306,32 @@
       }
     },
     "87803": {
-      "query_id": 87803,
+      "station_number": 87803,
+      "station_name": "ESQUEL AERO",
       "representative_locality_id": 10865,
-      "expected_station_name": "ESQUEL AERO",
       "locality_count": 50,
+      "source_station_numbers": [
+        87803
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:13:56.321422+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:23:48.066237+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-29T21:00:00-03:00",
-        "humidity": 37.0,
-        "pressure": 921.7,
-        "feels_like": 1.8,
-        "temperature": 3.7,
+        "date": "2026-07-01T21:00:00-03:00",
+        "humidity": 73.0,
+        "pressure": 939.7,
+        "feels_like": -12.2,
+        "temperature": -7.2,
         "visibility": 30.0,
         "weather": {
-          "description": "Parcialmente nublado",
-          "id": 25
+          "description": "Despejado",
+          "id": 3
         },
         "wind": {
-          "direction": "Sudoeste",
-          "deg": 225.0,
-          "speed": 8.0
+          "direction": "Noreste",
+          "deg": 45.0,
+          "speed": 12.0
         },
         "station_id": 87803,
         "location": {
@@ -4346,32 +4349,32 @@
       }
     },
     "87814": {
-      "query_id": 87814,
+      "station_number": 87814,
+      "station_name": "PASO DE INDIOS",
       "representative_locality_id": 5807,
-      "expected_station_name": "PASO DE INDIOS",
       "locality_count": 40,
+      "source_station_numbers": [
+        87814
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:13:58.029763+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:23:49.838058+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-29T21:00:00-03:00",
-        "humidity": 41.0,
-        "pressure": 954.9,
-        "feels_like": 2.8,
-        "temperature": 6.7,
+        "date": "2026-07-01T21:00:00-03:00",
+        "humidity": 83.0,
+        "pressure": 977.4,
+        "feels_like": -7.5,
+        "temperature": -2.0,
         "visibility": 45.0,
         "weather": {
-          "description": "Mayormente nublado",
-          "id": 37
+          "description": "Ligeramente nublado",
+          "id": 13
         },
         "wind": {
-          "direction": "Oeste",
-          "deg": 270.0,
-          "speed": 25.0
+          "direction": "Sudoeste",
+          "deg": 225.0,
+          "speed": 19.0
         },
         "station_id": 87814,
         "location": {
@@ -4389,32 +4392,32 @@
       }
     },
     "87823": {
-      "query_id": 87823,
+      "station_number": 87823,
+      "station_name": "PUERTO MADRYN AERO",
       "representative_locality_id": 5885,
-      "expected_station_name": "PUERTO MADRYN AERO",
       "locality_count": 3,
+      "source_station_numbers": [
+        87823
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:13:59.734069+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:23:51.597146+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-29T23:00:00-03:00",
-        "humidity": 68.0,
-        "pressure": 995.1,
-        "feels_like": -1.9,
-        "temperature": 1.4,
+        "date": "2026-07-01T23:00:00-03:00",
+        "humidity": 76.0,
+        "pressure": 1019.8,
+        "feels_like": -6.2,
+        "temperature": -1.2,
         "visibility": 30.0,
         "weather": {
-          "description": "Parcialmente nublado",
-          "id": 25
+          "description": "Ligeramente nublado",
+          "id": 13
         },
         "wind": {
-          "direction": "Noroeste",
-          "deg": 315.0,
-          "speed": 12.0
+          "direction": "Sudoeste",
+          "deg": 225.0,
+          "speed": 17.0
         },
         "station_id": 87823,
         "location": {
@@ -4432,32 +4435,32 @@
       }
     },
     "87828": {
-      "query_id": 87828,
+      "station_number": 87828,
+      "station_name": "TRELEW AERO",
       "representative_locality_id": 5888,
-      "expected_station_name": "TRELEW AERO",
       "locality_count": 22,
+      "source_station_numbers": [
+        87828
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:14:01.414520+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:23:53.392555+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-30T02:00:00-03:00",
-        "humidity": 69.0,
-        "pressure": 1005.5,
-        "feels_like": -1.3,
-        "temperature": 2.2,
+        "date": "2026-07-02T01:00:00-03:00",
+        "humidity": 79.0,
+        "pressure": 1032.2,
+        "feels_like": -4.8,
+        "temperature": -2.6,
         "visibility": 30.0,
         "weather": {
-          "description": "Parcialmente nublado",
-          "id": 25
+          "description": "Despejado",
+          "id": 3
         },
         "wind": {
-          "direction": "Noroeste",
-          "deg": 315.0,
-          "speed": 13.0
+          "direction": "Oeste",
+          "deg": 270.0,
+          "speed": 6.0
         },
         "station_id": 87828,
         "location": {
@@ -4475,32 +4478,32 @@
       }
     },
     "87852": {
-      "query_id": 87852,
+      "station_number": 87852,
+      "station_name": "PERITO MORENO AERO",
       "representative_locality_id": 1801,
-      "expected_station_name": "PERITO MORENO AERO",
       "locality_count": 42,
+      "source_station_numbers": [
+        87852
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:14:03.123705+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:23:55.142434+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-29T21:00:00-03:00",
-        "humidity": 56.0,
-        "pressure": 958.0,
-        "feels_like": -1.8,
-        "temperature": 3.4,
+        "date": "2026-07-01T21:00:00-03:00",
+        "humidity": 93.0,
+        "pressure": 982.2,
+        "feels_like": null,
+        "temperature": -4.3,
         "visibility": 50.0,
         "weather": {
-          "description": "Algo nublado",
-          "id": 19
+          "description": "Despejado",
+          "id": 3
         },
         "wind": {
-          "direction": "Oeste",
-          "deg": 270.0,
-          "speed": 28.0
+          "direction": "Calma",
+          "deg": null,
+          "speed": null
         },
         "station_id": 87852,
         "location": {
@@ -4518,32 +4521,32 @@
       }
     },
     "87860": {
-      "query_id": 87860,
+      "station_number": 87860,
+      "station_name": "COMODORO RIVADAVIA AERO",
       "representative_locality_id": 10794,
-      "expected_station_name": "COMODORO RIVADAVIA AERO",
       "locality_count": 39,
+      "source_station_numbers": [
+        87860
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:14:04.818621+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:23:56.906895+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-30T02:00:00-03:00",
-        "humidity": 49.0,
-        "pressure": 1000.5,
-        "feels_like": 2.9,
-        "temperature": 7.5,
+        "date": "2026-07-02T01:00:00-03:00",
+        "humidity": 54.0,
+        "pressure": 1027.7,
+        "feels_like": -1.1,
+        "temperature": 3.1,
         "visibility": 30.0,
         "weather": {
-          "description": "Nublado",
-          "id": 43
+          "description": "Despejado",
+          "id": 3
         },
         "wind": {
           "direction": "Oeste",
           "deg": 270.0,
-          "speed": 36.0
+          "speed": 19.0
         },
         "station_id": 87860,
         "location": {
@@ -4561,32 +4564,32 @@
       }
     },
     "87880": {
-      "query_id": 87880,
+      "station_number": 87880,
+      "station_name": "GOBERNADOR GREGORES AERO",
       "representative_locality_id": 1828,
-      "expected_station_name": "GOBERNADOR GREGORES AERO",
       "locality_count": 19,
+      "source_station_numbers": [
+        87880
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:14:06.793272+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:23:58.652185+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-29T21:00:00-03:00",
-        "humidity": 73.0,
-        "pressure": 960.3,
-        "feels_like": -0.4,
-        "temperature": 5.5,
+        "date": "2026-07-01T21:00:00-03:00",
+        "humidity": 79.0,
+        "pressure": 987.7,
+        "feels_like": null,
+        "temperature": 0.0,
         "visibility": 45.0,
         "weather": {
-          "description": "Algo nublado",
-          "id": 19
+          "description": "Despejado",
+          "id": 3
         },
         "wind": {
-          "direction": "Sur",
-          "deg": 180.0,
-          "speed": 47.0
+          "direction": "Calma",
+          "deg": null,
+          "speed": null
         },
         "station_id": 87880,
         "location": {
@@ -4604,32 +4607,32 @@
       }
     },
     "87896": {
-      "query_id": 87896,
+      "station_number": 87896,
+      "station_name": "PUERTO DESEADO AERO",
       "representative_locality_id": 1856,
-      "expected_station_name": "PUERTO DESEADO AERO",
       "locality_count": 7,
+      "source_station_numbers": [
+        87896
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:14:08.491376+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:24:00.415508+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-29T21:00:00-03:00",
-        "humidity": 42.0,
-        "pressure": 994.6,
-        "feels_like": 1.4,
-        "temperature": 6.2,
-        "visibility": 30.0,
+        "date": "2026-07-01T21:00:00-03:00",
+        "humidity": 83.0,
+        "pressure": 1022.8,
+        "feels_like": -5.0,
+        "temperature": 0.6,
+        "visibility": 10.0,
         "weather": {
-          "description": "Parcialmente nublado",
-          "id": 25
+          "description": "Parcialmente nublado con neblina",
+          "id": 61
         },
         "wind": {
           "direction": "Oeste",
           "deg": 270.0,
-          "speed": 34.0
+          "speed": 25.0
         },
         "station_id": 87896,
         "location": {
@@ -4647,32 +4650,32 @@
       }
     },
     "87904": {
-      "query_id": 87904,
+      "station_number": 87904,
+      "station_name": "EL CALAFATE AERO",
       "representative_locality_id": 1841,
-      "expected_station_name": "EL CALAFATE AERO",
       "locality_count": 29,
+      "source_station_numbers": [
+        87904
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:14:10.192429+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:24:02.204166+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-30T02:00:00-03:00",
+        "date": "2026-07-02T01:00:00-03:00",
         "humidity": 78.0,
-        "pressure": 988.2,
-        "feels_like": -4.9,
-        "temperature": 1.4,
-        "visibility": 20.0,
+        "pressure": 1005.6,
+        "feels_like": -5.8,
+        "temperature": -2.8,
+        "visibility": 30.0,
         "weather": {
-          "description": "Nublado con nevada débil ",
-          "id": 78
+          "description": "Ligeramente nublado",
+          "id": 13
         },
         "wind": {
-          "direction": "Sur",
-          "deg": 180.0,
-          "speed": 34.0
+          "direction": "Sudeste",
+          "deg": 135.0,
+          "speed": 8.0
         },
         "station_id": 87904,
         "location": {
@@ -4690,32 +4693,32 @@
       }
     },
     "87909": {
-      "query_id": 87909,
+      "station_number": 87909,
+      "station_name": "SAN JULIAN AERO",
       "representative_locality_id": 1871,
-      "expected_station_name": "SAN JULIAN AERO",
       "locality_count": 4,
+      "source_station_numbers": [
+        87909
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:14:11.901424+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:24:03.964205+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-29T21:00:00-03:00",
-        "humidity": 46.0,
-        "pressure": 995.8,
-        "feels_like": 2.7,
-        "temperature": 7.0,
+        "date": "2026-07-01T21:00:00-03:00",
+        "humidity": 50.0,
+        "pressure": 1023.8,
+        "feels_like": -3.0,
+        "temperature": 2.0,
         "visibility": 30.0,
         "weather": {
-          "description": "Mayormente nublado",
-          "id": 37
+          "description": "Ligeramente nublado",
+          "id": 13
         },
         "wind": {
-          "direction": "Noroeste",
-          "deg": 315.0,
-          "speed": 30.0
+          "direction": "Oeste",
+          "deg": 270.0,
+          "speed": 23.0
         },
         "station_id": 87909,
         "location": {
@@ -4733,32 +4736,32 @@
       }
     },
     "87912": {
-      "query_id": 87912,
+      "station_number": 87912,
+      "station_name": "SANTA CRUZ AERO",
       "representative_locality_id": 1861,
-      "expected_station_name": "SANTA CRUZ AERO",
       "locality_count": 4,
+      "source_station_numbers": [
+        87912
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:14:13.610898+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:24:05.721473+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-29T21:00:00-03:00",
-        "humidity": 78.0,
-        "pressure": 987.2,
-        "feels_like": -0.1,
-        "temperature": 5.3,
+        "date": "2026-07-01T21:00:00-03:00",
+        "humidity": 67.0,
+        "pressure": 1015.3,
+        "feels_like": -4.3,
+        "temperature": 1.5,
         "visibility": 30.0,
         "weather": {
-          "description": "Parcialmente nublado",
-          "id": 25
+          "description": "Ligeramente nublado",
+          "id": 13
         },
         "wind": {
           "direction": "Oeste",
           "deg": 270.0,
-          "speed": 38.0
+          "speed": 28.0
         },
         "station_id": 87912,
         "location": {
@@ -4776,32 +4779,32 @@
       }
     },
     "87925": {
-      "query_id": 87925,
+      "station_number": 87925,
+      "station_name": "RIO GALLEGOS AERO",
       "representative_locality_id": 1870,
-      "expected_station_name": "RIO GALLEGOS AERO",
       "locality_count": 8,
+      "source_station_numbers": [
+        87925
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:14:15.323791+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:24:07.490783+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-30T02:00:00-03:00",
-        "humidity": 54.0,
-        "pressure": 1007.0,
-        "feels_like": -5.8,
-        "temperature": 1.0,
+        "date": "2026-07-02T01:00:00-03:00",
+        "humidity": 77.0,
+        "pressure": 1024.1,
+        "feels_like": 2.8,
+        "temperature": 5.0,
         "visibility": 30.0,
         "weather": {
           "description": "Ligeramente nublado",
           "id": 13
         },
         "wind": {
-          "direction": "Sur",
-          "deg": 180.0,
-          "speed": 38.0
+          "direction": "Oeste",
+          "deg": 270.0,
+          "speed": 10.0
         },
         "station_id": 87925,
         "location": {
@@ -4819,32 +4822,32 @@
       }
     },
     "87934": {
-      "query_id": 87934,
+      "station_number": 87934,
+      "station_name": "RIO GRANDE B.A.",
       "representative_locality_id": 5912,
-      "expected_station_name": "RIO GRANDE B.A.",
       "locality_count": 8,
+      "source_station_numbers": [
+        87934
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:14:17.023572+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:24:09.274255+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-30T02:00:00-03:00",
-        "humidity": 82.0,
-        "pressure": 1001.7,
-        "feels_like": -8.7,
-        "temperature": -2.7,
+        "date": "2026-07-02T01:00:00-03:00",
+        "humidity": 79.0,
+        "pressure": 1016.8,
+        "feels_like": 4.0,
+        "temperature": 7.9,
         "visibility": 30.0,
         "weather": {
-          "description": "Ligeramente nublado",
-          "id": 13
+          "description": "Nublado",
+          "id": 43
         },
         "wind": {
           "direction": "Oeste",
           "deg": 270.0,
-          "speed": 21.0
+          "speed": 28.0
         },
         "station_id": 87934,
         "location": {
@@ -4862,32 +4865,32 @@
       }
     },
     "87938": {
-      "query_id": 87938,
+      "station_number": 87938,
+      "station_name": "USHUAIA AERO",
       "representative_locality_id": 10856,
-      "expected_station_name": "USHUAIA AERO",
       "locality_count": 8,
+      "source_station_numbers": [
+        87938
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:14:18.732346+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:24:11.021814+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-30T02:00:00-03:00",
-        "humidity": 95.0,
-        "pressure": 996.1,
-        "feels_like": -9.4,
-        "temperature": -1.6,
-        "visibility": 1.0,
+        "date": "2026-07-02T00:00:00-03:00",
+        "humidity": 84.0,
+        "pressure": 1009.0,
+        "feels_like": 5.4,
+        "temperature": 7.9,
+        "visibility": 30.0,
         "weather": {
-          "description": "Cubierto con nevada",
-          "id": 79
+          "description": "Parcialmente nublado",
+          "id": 25
         },
         "wind": {
-          "direction": "Sudoeste",
-          "deg": 225.0,
-          "speed": 39.0
+          "direction": "Noroeste",
+          "deg": 315.0,
+          "speed": 15.0
         },
         "station_id": 87938,
         "location": {
@@ -4905,23 +4908,23 @@
       }
     },
     "88889": {
-      "query_id": 88889,
+      "station_number": 88889,
+      "station_name": "MONTE AGRADABLE AERO",
       "representative_locality_id": 5970,
-      "expected_station_name": "MONTE AGRADABLE AERO",
       "locality_count": 36,
+      "source_station_numbers": [
+        88889
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:14:20.433685+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:24:12.776583+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-30T02:00:00-03:00",
-        "humidity": 89.0,
-        "pressure": 982.7,
-        "feels_like": -1.7,
-        "temperature": 4.2,
+        "date": "2026-07-02T01:00:00-03:00",
+        "humidity": 93.0,
+        "pressure": 1010.3,
+        "feels_like": -1.9,
+        "temperature": 3.8,
         "visibility": null,
         "weather": {
           "description": "Cubierto",
@@ -4930,7 +4933,7 @@
         "wind": {
           "direction": "Oeste",
           "deg": 270.0,
-          "speed": 39.0
+          "speed": 36.0
         },
         "station_id": 88889,
         "location": {
@@ -4948,32 +4951,32 @@
       }
     },
     "88963": {
-      "query_id": 88963,
+      "station_number": 88963,
+      "station_name": "BASE ESPERANZA",
       "representative_locality_id": 10810,
-      "expected_station_name": "BASE ESPERANZA",
       "locality_count": 2,
+      "source_station_numbers": [
+        88963
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:14:22.144823+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:24:14.524360+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-30T00:00:00-03:00",
-        "humidity": 86.0,
-        "pressure": 981.2,
-        "feels_like": -14.1,
-        "temperature": -7.3,
-        "visibility": 2.0,
+        "date": "2026-07-02T00:00:00-03:00",
+        "humidity": 78.0,
+        "pressure": 980.6,
+        "feels_like": -6.1,
+        "temperature": -3.1,
+        "visibility": 10.0,
         "weather": {
-          "description": "Cubierto con nevada",
-          "id": 79
+          "description": "Despejado",
+          "id": 3
         },
         "wind": {
-          "direction": "Sur",
-          "deg": 180.0,
-          "speed": 19.0
+          "direction": "Sudoeste",
+          "deg": 225.0,
+          "speed": 8.0
         },
         "station_id": 88963,
         "location": {
@@ -4991,32 +4994,32 @@
       }
     },
     "88968": {
-      "query_id": 88968,
+      "station_number": 88968,
+      "station_name": "BASE ORCADAS",
       "representative_locality_id": 10814,
-      "expected_station_name": "BASE ORCADAS",
       "locality_count": 1,
+      "source_station_numbers": [
+        88968
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:14:23.858888+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:24:16.278235+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-30T00:00:00-03:00",
-        "humidity": 96.0,
-        "pressure": 983.6,
-        "feels_like": null,
-        "temperature": -3.0,
-        "visibility": 20.0,
+        "date": "2026-07-02T00:00:00-03:00",
+        "humidity": 95.0,
+        "pressure": 980.1,
+        "feels_like": -8.2,
+        "temperature": -1.4,
+        "visibility": 5.0,
         "weather": {
-          "description": "Algo nublado",
-          "id": 19
+          "description": "Cubierto con nevada débil",
+          "id": 78
         },
         "wind": {
-          "direction": "Este",
-          "deg": 90.0,
-          "speed": 4.0
+          "direction": "Noroeste",
+          "deg": 315.0,
+          "speed": 30.0
         },
         "station_id": 88968,
         "location": {
@@ -5034,32 +5037,32 @@
       }
     },
     "89034": {
-      "query_id": 89034,
+      "station_number": 89034,
+      "station_name": "BASE BELGRANO II",
       "representative_locality_id": 10806,
-      "expected_station_name": "BASE BELGRANO II",
       "locality_count": 1,
+      "source_station_numbers": [
+        89034
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:14:25.566487+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:24:18.058229+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-30T00:00:00-03:00",
-        "humidity": 84.0,
+        "date": "2026-07-02T00:00:00-03:00",
+        "humidity": 65.0,
         "pressure": 936.6,
-        "feels_like": -22.8,
-        "temperature": -11.2,
-        "visibility": 0.8,
+        "feels_like": -24.6,
+        "temperature": -15.0,
+        "visibility": 20.0,
         "weather": {
-          "description": "Nublado con ventisca alta",
-          "id": 92
+          "description": "Parcialmente nublado",
+          "id": 25
         },
         "wind": {
-          "direction": "Noreste",
-          "deg": 45.0,
-          "speed": 45.0
+          "direction": "Sudeste",
+          "deg": 135.0,
+          "speed": 23.0
         },
         "station_id": 89034,
         "location": {
@@ -5077,32 +5080,32 @@
       }
     },
     "89053": {
-      "query_id": 89053,
+      "station_number": 89053,
+      "station_name": "BASE CARLINI",
       "representative_locality_id": 10811,
-      "expected_station_name": "BASE CARLINI",
       "locality_count": 7,
+      "source_station_numbers": [
+        89053
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:14:27.263983+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:24:19.807326+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-30T00:00:00-03:00",
-        "humidity": 84.0,
-        "pressure": 982.1,
-        "feels_like": -7.5,
-        "temperature": -5.0,
+        "date": "2026-07-02T00:00:00-03:00",
+        "humidity": 87.0,
+        "pressure": 987.3,
+        "feels_like": -7.9,
+        "temperature": -0.1,
         "visibility": 10.0,
         "weather": {
-          "description": "Ligeramente nublado",
-          "id": 13
+          "description": "Parcialmente nublado",
+          "id": 25
         },
         "wind": {
-          "direction": "Sur",
-          "deg": 180.0,
-          "speed": 6.0
+          "direction": "Oeste",
+          "deg": 270.0,
+          "speed": 45.0
         },
         "station_id": 89053,
         "location": {
@@ -5120,32 +5123,32 @@
       }
     },
     "89055": {
-      "query_id": 89055,
+      "station_number": 89055,
+      "station_name": "BASE MARAMBIO",
       "representative_locality_id": 10818,
-      "expected_station_name": "BASE MARAMBIO",
       "locality_count": 1,
+      "source_station_numbers": [
+        89055
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:14:28.973454+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:24:21.568836+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-30T02:00:00-03:00",
-        "humidity": 64.0,
-        "pressure": 961.8,
-        "feels_like": -18.5,
-        "temperature": -12.4,
+        "date": "2026-07-02T01:00:00-03:00",
+        "humidity": 47.0,
+        "pressure": 958.6,
+        "feels_like": -9.0,
+        "temperature": -2.3,
         "visibility": 15.0,
         "weather": {
-          "description": "Algo nublado",
-          "id": 19
+          "description": "Despejado",
+          "id": 3
         },
         "wind": {
-          "direction": "Sudeste",
-          "deg": 135.0,
-          "speed": 12.0
+          "direction": "Sudoeste",
+          "deg": 225.0,
+          "speed": 26.0
         },
         "station_id": 89055,
         "location": {
@@ -5163,32 +5166,32 @@
       }
     },
     "89066": {
-      "query_id": 89066,
+      "station_number": 89066,
+      "station_name": "BASE SAN MARTIN",
       "representative_locality_id": 10817,
-      "expected_station_name": "BASE SAN MARTIN",
       "locality_count": 1,
+      "source_station_numbers": [
+        89066
+      ],
       "status": "success",
-      "data_source": null,
-      "historical": false,
-      "attempts": 1,
+      "data_source": "smn_modern_weather",
+      "fetched_at": "2026-07-02T04:14:30.672409+00:00",
       "http_attempts_last_run": 1,
-      "fetched_at": "2026-06-30T05:24:23.319684+00:00",
-      "previous_payload_preserved": false,
       "payload": {
-        "date": "2026-06-30T00:00:00-03:00",
-        "humidity": 72.0,
-        "pressure": 987.7,
-        "feels_like": -14.2,
-        "temperature": -7.1,
+        "date": "2026-07-02T00:00:00-03:00",
+        "humidity": 61.0,
+        "pressure": 977.4,
+        "feels_like": -5.6,
+        "temperature": 0.5,
         "visibility": 20.0,
         "weather": {
-          "description": "Mayormente nublado",
-          "id": 37
+          "description": "Cubierto",
+          "id": 43
         },
         "wind": {
-          "direction": "Oeste",
-          "deg": 270.0,
-          "speed": 21.0
+          "direction": "Norte",
+          "deg": 360.0,
+          "speed": 28.0
         },
         "station_id": 89066,
         "location": {
