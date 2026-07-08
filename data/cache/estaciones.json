@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-08T12:15:35.690727+00:00",
+  "generated_at": "2026-07-08T12:35:43.855340+00:00",
   "records": {
     "87007": {
       "station_number": 87007,
@@ -12,7 +12,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:12:10.833824+00:00",
+      "fetched_at": "2026-07-08T12:32:15.302606+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -55,22 +55,22 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:12:12.548968+00:00",
+      "fetched_at": "2026-07-08T12:32:17.004989+00:00",
       "http_attempts_last_run": 1,
       "payload": {
-        "date": "2026-07-08T08:00:00-03:00",
-        "humidity": 94.0,
-        "pressure": 972.5,
+        "date": "2026-07-08T09:00:00-03:00",
+        "humidity": 95.0,
+        "pressure": 972.8,
         "feels_like": null,
-        "temperature": 4.6,
-        "visibility": 1.5,
+        "temperature": 5.4,
+        "visibility": 0.1,
         "weather": {
-          "description": "Despejado con neblina",
-          "id": 61
+          "description": "Despejado con niebla",
+          "id": 67
         },
         "wind": {
-          "direction": "Norte",
-          "deg": 360.0,
+          "direction": "Noroeste",
+          "deg": 315.0,
           "speed": 4.0
         },
         "station_id": 87016,
@@ -98,7 +98,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:12:14.232778+00:00",
+      "fetched_at": "2026-07-08T12:32:18.769133+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -141,23 +141,23 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:12:15.957918+00:00",
+      "fetched_at": "2026-07-08T12:32:20.467100+00:00",
       "http_attempts_last_run": 1,
       "payload": {
-        "date": "2026-07-08T08:00:00-03:00",
-        "humidity": 92.0,
+        "date": "2026-07-08T09:00:00-03:00",
+        "humidity": 88.0,
         "pressure": 867.6,
         "feels_like": null,
-        "temperature": 2.4,
+        "temperature": 3.4,
         "visibility": 15.0,
         "weather": {
           "description": "Despejado",
           "id": 3
         },
         "wind": {
-          "direction": "Calma",
-          "deg": null,
-          "speed": null
+          "direction": "Noroeste",
+          "deg": 315.0,
+          "speed": 4.0
         },
         "station_id": 87043,
         "location": {
@@ -184,7 +184,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:12:17.693002+00:00",
+      "fetched_at": "2026-07-08T12:32:22.206347+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -227,7 +227,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:12:19.421995+00:00",
+      "fetched_at": "2026-07-08T12:32:23.963115+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T08:00:00-03:00",
@@ -270,7 +270,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:12:21.140734+00:00",
+      "fetched_at": "2026-07-08T12:32:25.652443+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -313,7 +313,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:12:22.819494+00:00",
+      "fetched_at": "2026-07-08T12:32:27.392758+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-07T21:00:00-03:00",
@@ -356,14 +356,14 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:12:24.551142+00:00",
+      "fetched_at": "2026-07-08T12:32:29.151509+00:00",
       "http_attempts_last_run": 1,
       "payload": {
-        "date": "2026-07-07T21:00:00-03:00",
-        "humidity": 57.0,
-        "pressure": 1003.8,
-        "feels_like": null,
-        "temperature": 12.2,
+        "date": "2026-07-08T09:00:00-03:00",
+        "humidity": 77.0,
+        "pressure": 1002.0,
+        "feels_like": 8.7,
+        "temperature": 9.6,
         "visibility": 20.0,
         "weather": {
           "description": "Despejado",
@@ -372,7 +372,7 @@
         "wind": {
           "direction": "Este",
           "deg": 90.0,
-          "speed": 13.0
+          "speed": 8.0
         },
         "station_id": 87078,
         "location": {
@@ -399,7 +399,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:12:26.242174+00:00",
+      "fetched_at": "2026-07-08T12:32:30.842503+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -442,7 +442,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:12:27.920112+00:00",
+      "fetched_at": "2026-07-08T12:32:32.601442+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T08:00:00-03:00",
@@ -485,7 +485,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:12:29.605129+00:00",
+      "fetched_at": "2026-07-08T12:32:34.335628+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-07T21:00:00-03:00",
@@ -528,7 +528,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:12:31.335277+00:00",
+      "fetched_at": "2026-07-08T12:32:36.078653+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -571,7 +571,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:12:33.028191+00:00",
+      "fetched_at": "2026-07-08T12:32:37.770796+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -614,7 +614,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:12:34.717524+00:00",
+      "fetched_at": "2026-07-08T12:32:39.528825+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -657,18 +657,18 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:12:36.406250+00:00",
+      "fetched_at": "2026-07-08T12:32:41.282348+00:00",
       "http_attempts_last_run": 1,
       "payload": {
-        "date": "2026-07-08T08:00:00-03:00",
-        "humidity": 97.0,
-        "pressure": 1011.4,
-        "feels_like": 2.2,
-        "temperature": 3.5,
-        "visibility": 4.0,
+        "date": "2026-07-08T09:00:00-03:00",
+        "humidity": 84.0,
+        "pressure": 1011.8,
+        "feels_like": 7.7,
+        "temperature": 8.3,
+        "visibility": 20.0,
         "weather": {
-          "description": "Despejado con neblina",
-          "id": 61
+          "description": "Despejado",
+          "id": 3
         },
         "wind": {
           "direction": "Este",
@@ -700,7 +700,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:12:38.086854+00:00",
+      "fetched_at": "2026-07-08T12:32:43.053661+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -743,7 +743,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:12:39.768113+00:00",
+      "fetched_at": "2026-07-08T12:32:44.790777+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -786,7 +786,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:12:41.465016+00:00",
+      "fetched_at": "2026-07-08T12:32:46.482488+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -829,7 +829,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:12:43.188088+00:00",
+      "fetched_at": "2026-07-08T12:32:48.216780+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -872,7 +872,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:12:44.914711+00:00",
+      "fetched_at": "2026-07-08T12:32:49.956247+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -915,7 +915,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:12:46.597583+00:00",
+      "fetched_at": "2026-07-08T12:32:51.697859+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-07T21:00:00-03:00",
@@ -958,23 +958,23 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:12:48.279080+00:00",
+      "fetched_at": "2026-07-08T12:32:53.431634+00:00",
       "http_attempts_last_run": 1,
       "payload": {
-        "date": "2026-07-07T21:00:00-03:00",
-        "humidity": 48.0,
-        "pressure": 907.9,
+        "date": "2026-07-08T09:00:00-03:00",
+        "humidity": 66.0,
+        "pressure": 906.4,
         "feels_like": null,
-        "temperature": 11.2,
+        "temperature": 3.5,
         "visibility": 20.0,
         "weather": {
-          "description": "Despejado",
-          "id": 3
+          "description": "Algo nublado",
+          "id": 19
         },
         "wind": {
-          "direction": "Sur",
-          "deg": 180.0,
-          "speed": 10.0
+          "direction": "Calma",
+          "deg": null,
+          "speed": null
         },
         "station_id": 87213,
         "location": {
@@ -1001,7 +1001,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:12:49.968831+00:00",
+      "fetched_at": "2026-07-08T12:32:55.197411+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -1044,7 +1044,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:12:51.651325+00:00",
+      "fetched_at": "2026-07-08T12:32:56.958680+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -1087,7 +1087,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:12:53.377543+00:00",
+      "fetched_at": "2026-07-08T12:32:58.693510+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-07T21:00:00-03:00",
@@ -1130,7 +1130,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:12:55.081667+00:00",
+      "fetched_at": "2026-07-08T12:33:00.465792+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -1173,7 +1173,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:12:56.772989+00:00",
+      "fetched_at": "2026-07-08T12:33:02.155819+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -1216,7 +1216,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:12:58.455951+00:00",
+      "fetched_at": "2026-07-08T12:33:03.888868+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -1259,7 +1259,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:13:00.139413+00:00",
+      "fetched_at": "2026-07-08T12:33:05.651733+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -1302,7 +1302,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:13:01.869735+00:00",
+      "fetched_at": "2026-07-08T12:33:07.385059+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -1345,7 +1345,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:13:03.588850+00:00",
+      "fetched_at": "2026-07-08T12:33:09.153681+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -1388,23 +1388,23 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:13:05.311132+00:00",
+      "fetched_at": "2026-07-08T12:33:10.848848+00:00",
       "http_attempts_last_run": 1,
       "payload": {
-        "date": "2026-07-07T21:00:00-03:00",
-        "humidity": 55.0,
-        "pressure": 960.8,
-        "feels_like": null,
-        "temperature": 9.8,
+        "date": "2026-07-08T09:00:00-03:00",
+        "humidity": 69.0,
+        "pressure": 958.9,
+        "feels_like": 3.8,
+        "temperature": 5.8,
         "visibility": 20.0,
         "weather": {
-          "description": "Despejado",
-          "id": 3
+          "description": "Parcialmente nublado",
+          "id": 25
         },
         "wind": {
-          "direction": "Calma",
-          "deg": null,
-          "speed": null
+          "direction": "Sur",
+          "deg": 180.0,
+          "speed": 10.0
         },
         "station_id": 87320,
         "location": {
@@ -1431,7 +1431,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:13:07.037383+00:00",
+      "fetched_at": "2026-07-08T12:33:12.581829+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -1474,7 +1474,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:13:08.765316+00:00",
+      "fetched_at": "2026-07-08T12:33:14.317917+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -1517,7 +1517,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:13:10.448333+00:00",
+      "fetched_at": "2026-07-08T12:33:16.072435+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -1560,7 +1560,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:13:12.171503+00:00",
+      "fetched_at": "2026-07-08T12:33:17.817828+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -1603,7 +1603,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:13:13.896484+00:00",
+      "fetched_at": "2026-07-08T12:33:19.578485+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -1646,7 +1646,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:13:15.586099+00:00",
+      "fetched_at": "2026-07-08T12:33:21.333809+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -1689,7 +1689,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:13:17.275495+00:00",
+      "fetched_at": "2026-07-08T12:33:23.025035+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -1733,7 +1733,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:13:18.966459+00:00",
+      "fetched_at": "2026-07-08T12:33:24.753811+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -1776,7 +1776,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:13:20.688883+00:00",
+      "fetched_at": "2026-07-08T12:33:26.507605+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -1819,7 +1819,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:13:22.399794+00:00",
+      "fetched_at": "2026-07-08T12:33:28.235608+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -1862,7 +1862,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:13:24.090165+00:00",
+      "fetched_at": "2026-07-08T12:33:29.992997+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -1905,7 +1905,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:13:25.811132+00:00",
+      "fetched_at": "2026-07-08T12:33:31.723755+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -1948,7 +1948,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:13:27.497808+00:00",
+      "fetched_at": "2026-07-08T12:33:33.416240+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -1991,7 +1991,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:13:29.180395+00:00",
+      "fetched_at": "2026-07-08T12:33:35.155122+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -2034,7 +2034,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:13:30.906421+00:00",
+      "fetched_at": "2026-07-08T12:33:36.847420+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -2078,7 +2078,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:13:32.592445+00:00",
+      "fetched_at": "2026-07-08T12:33:38.537002+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T08:00:00-03:00",
@@ -2121,14 +2121,14 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:13:34.316216+00:00",
+      "fetched_at": "2026-07-08T12:33:40.214448+00:00",
       "http_attempts_last_run": 1,
       "payload": {
-        "date": "2026-07-08T08:00:00-03:00",
-        "humidity": 45.0,
-        "pressure": 927.8,
+        "date": "2026-07-08T09:00:00-03:00",
+        "humidity": 52.0,
+        "pressure": 928.2,
         "feels_like": null,
-        "temperature": 11.8,
+        "temperature": 10.4,
         "visibility": 20.0,
         "weather": {
           "description": "Algo nublado",
@@ -2164,7 +2164,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:13:36.038914+00:00",
+      "fetched_at": "2026-07-08T12:33:41.907090+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -2207,7 +2207,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:13:37.721276+00:00",
+      "fetched_at": "2026-07-08T12:33:43.638755+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -2250,7 +2250,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:13:39.412191+00:00",
+      "fetched_at": "2026-07-08T12:33:45.317326+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T08:00:00-03:00",
@@ -2293,7 +2293,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:13:41.097506+00:00",
+      "fetched_at": "2026-07-08T12:33:47.057582+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -2336,7 +2336,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:13:42.780875+00:00",
+      "fetched_at": "2026-07-08T12:33:48.786917+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T08:00:00-03:00",
@@ -2379,7 +2379,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:13:44.493916+00:00",
+      "fetched_at": "2026-07-08T12:33:50.480792+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T08:00:00-03:00",
@@ -2422,14 +2422,14 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:13:46.193445+00:00",
+      "fetched_at": "2026-07-08T12:33:52.174426+00:00",
       "http_attempts_last_run": 1,
       "payload": {
-        "date": "2026-07-08T08:00:00-03:00",
-        "humidity": 91.0,
+        "date": "2026-07-08T09:00:00-03:00",
+        "humidity": 88.0,
         "pressure": 1014.6,
-        "feels_like": 0.6,
-        "temperature": 4.0,
+        "feels_like": 2.3,
+        "temperature": 5.4,
         "visibility": 15.0,
         "weather": {
           "description": "Despejado",
@@ -2465,7 +2465,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:13:47.879829+00:00",
+      "fetched_at": "2026-07-08T12:33:53.862087+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -2508,7 +2508,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:13:49.605027+00:00",
+      "fetched_at": "2026-07-08T12:33:55.598077+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -2551,7 +2551,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:13:51.328939+00:00",
+      "fetched_at": "2026-07-08T12:33:57.342192+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -2594,18 +2594,18 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:13:53.012798+00:00",
+      "fetched_at": "2026-07-08T12:33:59.075850+00:00",
       "http_attempts_last_run": 1,
       "payload": {
-        "date": "2026-07-08T08:00:00-03:00",
-        "humidity": 86.0,
-        "pressure": 996.4,
+        "date": "2026-07-08T09:00:00-03:00",
+        "humidity": 85.0,
+        "pressure": 996.9,
         "feels_like": null,
-        "temperature": 3.3,
-        "visibility": 8.0,
+        "temperature": 3.1,
+        "visibility": 10.0,
         "weather": {
-          "description": "Parcialmente nublado con neblina",
-          "id": 61
+          "description": "Parcialmente nublado",
+          "id": 25
         },
         "wind": {
           "direction": "Norte",
@@ -2637,7 +2637,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:13:54.695775+00:00",
+      "fetched_at": "2026-07-08T12:34:00.811282+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -2680,7 +2680,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:13:56.381668+00:00",
+      "fetched_at": "2026-07-08T12:34:02.807621+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-07T21:00:00-03:00",
@@ -2723,7 +2723,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:13:58.089880+00:00",
+      "fetched_at": "2026-07-08T12:34:04.530082+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T08:00:00-03:00",
@@ -2766,7 +2766,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:13:59.798384+00:00",
+      "fetched_at": "2026-07-08T12:34:06.286956+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-07T21:00:00-03:00",
@@ -2809,7 +2809,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:14:01.509373+00:00",
+      "fetched_at": "2026-07-08T12:34:08.177535+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -2852,7 +2852,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:14:03.181581+00:00",
+      "fetched_at": "2026-07-08T12:34:09.930674+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -2895,23 +2895,23 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:14:04.899370+00:00",
+      "fetched_at": "2026-07-08T12:34:11.666904+00:00",
       "http_attempts_last_run": 1,
       "payload": {
-        "date": "2026-07-07T21:00:00-03:00",
-        "humidity": 59.0,
-        "pressure": 1012.4,
-        "feels_like": null,
-        "temperature": 12.8,
+        "date": "2026-07-08T09:00:00-03:00",
+        "humidity": 68.0,
+        "pressure": 1013.3,
+        "feels_like": 7.7,
+        "temperature": 9.4,
         "visibility": 10.0,
         "weather": {
-          "description": "Algo nublado",
-          "id": 19
+          "description": "Despejado",
+          "id": 3
         },
         "wind": {
-          "direction": "Noroeste",
-          "deg": 315.0,
-          "speed": 15.0
+          "direction": "Norte",
+          "deg": 360.0,
+          "speed": 12.0
         },
         "station_id": 87570,
         "location": {
@@ -2938,7 +2938,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:14:06.621574+00:00",
+      "fetched_at": "2026-07-08T12:34:13.399335+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -2981,7 +2981,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:14:08.358419+00:00",
+      "fetched_at": "2026-07-08T12:34:15.091497+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -3024,7 +3024,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:14:10.089471+00:00",
+      "fetched_at": "2026-07-08T12:34:16.852759+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -3067,7 +3067,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:14:11.772752+00:00",
+      "fetched_at": "2026-07-08T12:34:18.610546+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -3110,7 +3110,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:14:13.507721+00:00",
+      "fetched_at": "2026-07-08T12:34:20.297332+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -3153,7 +3153,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:14:15.231046+00:00",
+      "fetched_at": "2026-07-08T12:34:21.974029+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -3196,7 +3196,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:14:16.916893+00:00",
+      "fetched_at": "2026-07-08T12:34:23.734938+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -3239,7 +3239,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:14:18.597547+00:00",
+      "fetched_at": "2026-07-08T12:34:25.471349+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -3282,14 +3282,14 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:14:20.285940+00:00",
+      "fetched_at": "2026-07-08T12:34:27.233469+00:00",
       "http_attempts_last_run": 1,
       "payload": {
-        "date": "2026-07-07T21:00:00-03:00",
-        "humidity": 90.0,
-        "pressure": 1012.4,
-        "feels_like": 4.2,
-        "temperature": 7.2,
+        "date": "2026-07-08T09:00:00-03:00",
+        "humidity": 87.0,
+        "pressure": 1013.6,
+        "feels_like": 6.7,
+        "temperature": 9.2,
         "visibility": 10.0,
         "weather": {
           "description": "Parcialmente nublado",
@@ -3325,7 +3325,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:14:21.967487+00:00",
+      "fetched_at": "2026-07-08T12:34:28.975250+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -3368,7 +3368,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:14:23.693650+00:00",
+      "fetched_at": "2026-07-08T12:34:30.693891+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -3412,7 +3412,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:14:25.388877+00:00",
+      "fetched_at": "2026-07-08T12:34:32.382911+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T08:00:00-03:00",
@@ -3455,7 +3455,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:14:27.082943+00:00",
+      "fetched_at": "2026-07-08T12:34:34.139905+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -3498,7 +3498,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:14:28.754412+00:00",
+      "fetched_at": "2026-07-08T12:34:35.882735+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -3541,7 +3541,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:14:30.492742+00:00",
+      "fetched_at": "2026-07-08T12:34:37.574840+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-07T21:00:00-03:00",
@@ -3584,7 +3584,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:14:32.197530+00:00",
+      "fetched_at": "2026-07-08T12:34:39.319524+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -3627,18 +3627,18 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:14:33.881226+00:00",
+      "fetched_at": "2026-07-08T12:34:41.083099+00:00",
       "http_attempts_last_run": 1,
       "payload": {
-        "date": "2026-07-07T21:00:00-03:00",
-        "humidity": 89.0,
-        "pressure": 1011.8,
-        "feels_like": 5.4,
-        "temperature": 7.2,
+        "date": "2026-07-08T09:00:00-03:00",
+        "humidity": 85.0,
+        "pressure": 1014.0,
+        "feels_like": 4.7,
+        "temperature": 6.6,
         "visibility": 10.0,
         "weather": {
-          "description": "Algo nublado",
-          "id": 19
+          "description": "Cubierto",
+          "id": 43
         },
         "wind": {
           "direction": "Norte",
@@ -3670,7 +3670,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:14:35.573374+00:00",
+      "fetched_at": "2026-07-08T12:34:42.817061+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -3713,7 +3713,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:14:37.267417+00:00",
+      "fetched_at": "2026-07-08T12:34:44.554681+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -3756,7 +3756,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:14:38.956200+00:00",
+      "fetched_at": "2026-07-08T12:34:46.250359+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-07T21:00:00-03:00",
@@ -3799,7 +3799,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:14:40.641469+00:00",
+      "fetched_at": "2026-07-08T12:34:47.988701+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-07T21:00:00-03:00",
@@ -3842,7 +3842,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:14:42.371567+00:00",
+      "fetched_at": "2026-07-08T12:34:49.730747+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -3885,7 +3885,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:14:44.062290+00:00",
+      "fetched_at": "2026-07-08T12:34:51.459606+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -3928,7 +3928,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:14:45.792168+00:00",
+      "fetched_at": "2026-07-08T12:34:53.221925+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-07T21:00:00-03:00",
@@ -3971,7 +3971,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:14:47.761760+00:00",
+      "fetched_at": "2026-07-08T12:34:54.913086+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-07T21:00:00-03:00",
@@ -4014,7 +4014,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:14:49.488722+00:00",
+      "fetched_at": "2026-07-08T12:34:56.669901+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -4057,7 +4057,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:14:51.217399+00:00",
+      "fetched_at": "2026-07-08T12:34:58.402725+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -4100,7 +4100,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:14:52.928597+00:00",
+      "fetched_at": "2026-07-08T12:35:00.133666+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T08:00:00-03:00",
@@ -4143,23 +4143,23 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:14:54.620902+00:00",
+      "fetched_at": "2026-07-08T12:35:01.889394+00:00",
       "http_attempts_last_run": 1,
       "payload": {
-        "date": "2026-07-08T08:00:00-03:00",
-        "humidity": 96.0,
-        "pressure": 906.0,
+        "date": "2026-07-08T09:00:00-03:00",
+        "humidity": 93.0,
+        "pressure": 906.5,
         "feels_like": null,
-        "temperature": 5.6,
-        "visibility": 20.0,
+        "temperature": 5.8,
+        "visibility": 40.0,
         "weather": {
-          "description": "Nublado con lluvia débil",
-          "id": 72
+          "description": "Mayormente nublado con lluvia en la hora anterior",
+          "id": 37
         },
         "wind": {
-          "direction": "Calma",
-          "deg": null,
-          "speed": null
+          "direction": "Sudeste",
+          "deg": 135.0,
+          "speed": 4.0
         },
         "station_id": 87774,
         "location": {
@@ -4186,7 +4186,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:14:56.345660+00:00",
+      "fetched_at": "2026-07-08T12:35:03.629653+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-07T21:00:00-03:00",
@@ -4229,7 +4229,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:14:58.074568+00:00",
+      "fetched_at": "2026-07-08T12:35:05.367537+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -4272,7 +4272,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:14:59.788773+00:00",
+      "fetched_at": "2026-07-08T12:35:07.104841+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -4315,7 +4315,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:15:01.534974+00:00",
+      "fetched_at": "2026-07-08T12:35:08.838672+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T08:00:00-03:00",
@@ -4358,7 +4358,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:15:03.219779+00:00",
+      "fetched_at": "2026-07-08T12:35:10.586357+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-07T21:00:00-03:00",
@@ -4401,7 +4401,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:15:04.909067+00:00",
+      "fetched_at": "2026-07-08T12:35:12.345580+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -4444,7 +4444,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:15:06.635213+00:00",
+      "fetched_at": "2026-07-08T12:35:14.067978+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -4487,7 +4487,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:15:08.341441+00:00",
+      "fetched_at": "2026-07-08T12:35:15.760625+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -4530,7 +4530,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:15:10.066846+00:00",
+      "fetched_at": "2026-07-08T12:35:17.500130+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T08:00:00-03:00",
@@ -4573,7 +4573,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:15:11.755983+00:00",
+      "fetched_at": "2026-07-08T12:35:19.188973+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-07T21:00:00-03:00",
@@ -4616,7 +4616,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:15:13.483055+00:00",
+      "fetched_at": "2026-07-08T12:35:20.948720+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -4659,7 +4659,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:15:15.208771+00:00",
+      "fetched_at": "2026-07-08T12:35:22.701176+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -4702,7 +4702,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:15:16.929815+00:00",
+      "fetched_at": "2026-07-08T12:35:24.457877+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -4745,7 +4745,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:15:18.613121+00:00",
+      "fetched_at": "2026-07-08T12:35:26.213827+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -4788,7 +4788,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:15:20.295823+00:00",
+      "fetched_at": "2026-07-08T12:35:27.949719+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -4831,7 +4831,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:15:22.036394+00:00",
+      "fetched_at": "2026-07-08T12:35:29.684905+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -4874,7 +4874,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:15:23.721865+00:00",
+      "fetched_at": "2026-07-08T12:35:31.419075+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -4917,7 +4917,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:15:25.422200+00:00",
+      "fetched_at": "2026-07-08T12:35:33.106299+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -4960,23 +4960,23 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:15:27.114582+00:00",
+      "fetched_at": "2026-07-08T12:35:34.843337+00:00",
       "http_attempts_last_run": 1,
       "payload": {
-        "date": "2026-07-08T06:00:00-03:00",
-        "humidity": 84.0,
-        "pressure": 968.4,
-        "feels_like": -11.7,
-        "temperature": -2.1,
+        "date": "2026-07-08T09:00:00-03:00",
+        "humidity": 87.0,
+        "pressure": 971.0,
+        "feels_like": -13.1,
+        "temperature": -2.9,
         "visibility": 3.0,
         "weather": {
-          "description": "Algo nublado con ventisca baja",
+          "description": "Ligeramente nublado con ventisca baja",
           "id": 96
         },
         "wind": {
           "direction": "Oeste",
           "deg": 270.0,
-          "speed": 62.0
+          "speed": 65.0
         },
         "station_id": 88963,
         "location": {
@@ -5003,23 +5003,23 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:15:28.826747+00:00",
+      "fetched_at": "2026-07-08T12:35:36.923069+00:00",
       "http_attempts_last_run": 1,
       "payload": {
-        "date": "2026-07-08T06:00:00-03:00",
-        "humidity": 93.0,
-        "pressure": 989.8,
-        "feels_like": -6.5,
-        "temperature": 0.2,
-        "visibility": 20.0,
+        "date": "2026-07-08T09:00:00-03:00",
+        "humidity": 94.0,
+        "pressure": 991.2,
+        "feels_like": -6.2,
+        "temperature": -0.5,
+        "visibility": 7.0,
         "weather": {
-          "description": "Algo nublado",
-          "id": 19
+          "description": "Parcialmente nublado con neblina",
+          "id": 61
         },
         "wind": {
           "direction": "Noroeste",
           "deg": 315.0,
-          "speed": 34.0
+          "speed": 23.0
         },
         "station_id": 88968,
         "location": {
@@ -5046,23 +5046,23 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:15:30.509768+00:00",
+      "fetched_at": "2026-07-08T12:35:38.662638+00:00",
       "http_attempts_last_run": 1,
       "payload": {
-        "date": "2026-07-08T06:00:00-03:00",
-        "humidity": 65.0,
+        "date": "2026-07-08T09:00:00-03:00",
+        "humidity": 73.0,
         "pressure": 951.0,
-        "feels_like": -22.6,
-        "temperature": -13.4,
+        "feels_like": -25.1,
+        "temperature": -13.2,
         "visibility": 5.0,
         "weather": {
           "description": "Nublado con nevada débil",
           "id": 78
         },
         "wind": {
-          "direction": "Norte",
-          "deg": 360.0,
-          "speed": 23.0
+          "direction": "Este",
+          "deg": 90.0,
+          "speed": 41.0
         },
         "station_id": 89034,
         "location": {
@@ -5089,7 +5089,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:15:32.234521+00:00",
+      "fetched_at": "2026-07-08T12:35:40.418299+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T06:00:00-03:00",
@@ -5132,7 +5132,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:15:33.956469+00:00",
+      "fetched_at": "2026-07-08T12:35:42.163311+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
@@ -5175,7 +5175,7 @@
       ],
       "status": "success",
       "data_source": "smn_modern_weather",
-      "fetched_at": "2026-07-08T12:15:35.690706+00:00",
+      "fetched_at": "2026-07-08T12:35:43.855319+00:00",
       "http_attempts_last_run": 1,
       "payload": {
         "date": "2026-07-08T09:00:00-03:00",
